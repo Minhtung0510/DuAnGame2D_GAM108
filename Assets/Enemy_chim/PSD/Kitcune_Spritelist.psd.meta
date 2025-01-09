@@ -1,0 +1,4692 @@
+fileFormatVersion: 2
+guid: 004fa6675c0424c429b7a2f807034b95
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3886781693584152126
+    second: Kitcune_Spritelist_0
+  - first:
+      213: -4749096734579519854
+    second: Kitcune_Spritelist_1
+  - first:
+      213: -619526732755284700
+    second: Kitcune_Spritelist_2
+  - first:
+      213: -642520894191061531
+    second: Kitcune_Spritelist_3
+  - first:
+      213: -2851597117269284081
+    second: Kitcune_Spritelist_4
+  - first:
+      213: 2636086333808928639
+    second: Kitcune_Spritelist_5
+  - first:
+      213: 3084667872674887010
+    second: Kitcune_Spritelist_6
+  - first:
+      213: -1182983418891531894
+    second: Kitcune_Spritelist_7
+  - first:
+      213: 1966750432120607752
+    second: Kitcune_Spritelist_8
+  - first:
+      213: 4742658256887123841
+    second: Kitcune_Spritelist_9
+  - first:
+      213: 8318937157512048071
+    second: Kitcune_Spritelist_10
+  - first:
+      213: -581379010963058792
+    second: Kitcune_Spritelist_11
+  - first:
+      213: -8273315297804724252
+    second: Kitcune_Spritelist_12
+  - first:
+      213: 1867056776773139977
+    second: Kitcune_Spritelist_13
+  - first:
+      213: -5943940204649365506
+    second: Kitcune_Spritelist_14
+  - first:
+      213: -2156096712120073018
+    second: Kitcune_Spritelist_15
+  - first:
+      213: -1167318350624620988
+    second: Kitcune_Spritelist_16
+  - first:
+      213: 2254254060563136899
+    second: Kitcune_Spritelist_17
+  - first:
+      213: -5132501212119280656
+    second: Kitcune_Spritelist_18
+  - first:
+      213: 5910239894071917125
+    second: Kitcune_Spritelist_19
+  - first:
+      213: -7965852824490994394
+    second: Kitcune_Spritelist_20
+  - first:
+      213: 9209472921421567413
+    second: Kitcune_Spritelist_21
+  - first:
+      213: -7187682371003614265
+    second: Kitcune_Spritelist_22
+  - first:
+      213: -6607559752284894535
+    second: Kitcune_Spritelist_23
+  - first:
+      213: -6479421756189244602
+    second: Kitcune_Spritelist_24
+  - first:
+      213: -1136551351266008975
+    second: Kitcune_Spritelist_25
+  - first:
+      213: 6223422177220819640
+    second: Kitcune_Spritelist_26
+  - first:
+      213: -3270279089479374553
+    second: Kitcune_Spritelist_27
+  - first:
+      213: 8910766791816030390
+    second: Kitcune_Spritelist_28
+  - first:
+      213: 5042535329296861332
+    second: Kitcune_Spritelist_29
+  - first:
+      213: -5487579382190705868
+    second: Kitcune_Spritelist_30
+  - first:
+      213: -2390429406889626134
+    second: Kitcune_Spritelist_31
+  - first:
+      213: -3627211783846906042
+    second: Kitcune_Spritelist_32
+  - first:
+      213: -1939481139195962789
+    second: Kitcune_Spritelist_33
+  - first:
+      213: -7862422137591932438
+    second: Kitcune_Spritelist_34
+  - first:
+      213: 1712428801283627104
+    second: Kitcune_Spritelist_35
+  - first:
+      213: -991309557306105520
+    second: Kitcune_Spritelist_36
+  - first:
+      213: -2804384601974053316
+    second: Kitcune_Spritelist_37
+  - first:
+      213: -2228423049763996263
+    second: Kitcune_Spritelist_38
+  - first:
+      213: 2082586117338685069
+    second: Kitcune_Spritelist_39
+  - first:
+      213: 367602491125606278
+    second: Kitcune_Spritelist_40
+  - first:
+      213: 3610799986258245977
+    second: Kitcune_Spritelist_41
+  - first:
+      213: 4518902653176215343
+    second: Kitcune_Spritelist_42
+  - first:
+      213: -5108109614684364825
+    second: Kitcune_Spritelist_43
+  - first:
+      213: -7761666095352608813
+    second: Kitcune_Spritelist_44
+  - first:
+      213: -6701892229897057440
+    second: Kitcune_Spritelist_45
+  - first:
+      213: 6948992011083461968
+    second: Kitcune_Spritelist_46
+  - first:
+      213: 2781618992162904048
+    second: Kitcune_Spritelist_47
+  - first:
+      213: 3820231462512364042
+    second: Kitcune_Spritelist_48
+  - first:
+      213: 8560193232362253346
+    second: Kitcune_Spritelist_49
+  - first:
+      213: 2003713531851944135
+    second: Kitcune_Spritelist_50
+  - first:
+      213: -3527856310316252430
+    second: Kitcune_Spritelist_51
+  - first:
+      213: -1725785474969280271
+    second: Kitcune_Spritelist_52
+  - first:
+      213: 984574346764173297
+    second: Kitcune_Spritelist_53
+  - first:
+      213: -6843191917563383925
+    second: Kitcune_Spritelist_54
+  - first:
+      213: 1629466029089943369
+    second: Kitcune_Spritelist_55
+  - first:
+      213: -5567126398591816215
+    second: Kitcune_Spritelist_56
+  - first:
+      213: -5651502486831414247
+    second: Kitcune_Spritelist_57
+  - first:
+      213: 8794764218112819175
+    second: Kitcune_Spritelist_58
+  - first:
+      213: 7847146493875543
+    second: Kitcune_Spritelist_59
+  - first:
+      213: 7798466939685074815
+    second: Kitcune_Spritelist_60
+  - first:
+      213: -2729441794055513359
+    second: Kitcune_Spritelist_61
+  - first:
+      213: 4506546960036005187
+    second: Kitcune_Spritelist_62
+  - first:
+      213: 6909731209666031959
+    second: Kitcune_Spritelist_63
+  - first:
+      213: -798546481752362243
+    second: Kitcune_Spritelist_64
+  - first:
+      213: -7317471721269088333
+    second: Kitcune_Spritelist_65
+  - first:
+      213: -6707420927432926915
+    second: Kitcune_Spritelist_66
+  - first:
+      213: 6584221871625570150
+    second: Kitcune_Spritelist_67
+  - first:
+      213: -700494791935890834
+    second: Kitcune_Spritelist_68
+  - first:
+      213: -2293572162503675427
+    second: Kitcune_Spritelist_69
+  - first:
+      213: -6344080277045114498
+    second: Kitcune_Spritelist_70
+  - first:
+      213: 2469884726536900462
+    second: Kitcune_Spritelist_71
+  - first:
+      213: -1373259868016404463
+    second: Kitcune_Spritelist_72
+  - first:
+      213: -2423407127715057508
+    second: Kitcune_Spritelist_73
+  - first:
+      213: 3664470212742663526
+    second: Kitcune_Spritelist_74
+  - first:
+      213: 5973586564321955917
+    second: Kitcune_Spritelist_75
+  - first:
+      213: -2131831860162055793
+    second: Kitcune_Spritelist_76
+  - first:
+      213: -870209172350459920
+    second: Kitcune_Spritelist_77
+  - first:
+      213: 7080461880718139984
+    second: Kitcune_Spritelist_78
+  - first:
+      213: 1500994868994358903
+    second: Kitcune_Spritelist_79
+  - first:
+      213: -5123234246334231479
+    second: Kitcune_Spritelist_80
+  - first:
+      213: 8029274953018120742
+    second: Kitcune_Spritelist_81
+  - first:
+      213: -8369350365136861860
+    second: Kitcune_Spritelist_82
+  - first:
+      213: 3959681632692863295
+    second: Kitcune_Spritelist_83
+  - first:
+      213: 612633948845375658
+    second: Kitcune_Spritelist_84
+  - first:
+      213: -2519929259048044852
+    second: Kitcune_Spritelist_85
+  - first:
+      213: -7603708610672691929
+    second: Kitcune_Spritelist_86
+  - first:
+      213: 3625377631860566914
+    second: Kitcune_Spritelist_87
+  - first:
+      213: -6301900957539830486
+    second: Kitcune_Spritelist_88
+  - first:
+      213: -7320959905934160397
+    second: Kitcune_Spritelist_89
+  - first:
+      213: 3185285792722945434
+    second: Kitcune_Spritelist_90
+  - first:
+      213: 2201560527233071417
+    second: Kitcune_Spritelist_91
+  - first:
+      213: -6584123003722397182
+    second: Kitcune_Spritelist_92
+  - first:
+      213: -5669469593918775768
+    second: Kitcune_Spritelist_93
+  - first:
+      213: 861619245353236517
+    second: Kitcune_Spritelist_94
+  - first:
+      213: -5231202023935516971
+    second: Kitcune_Spritelist_95
+  - first:
+      213: -704006503303558667
+    second: Kitcune_Spritelist_96
+  - first:
+      213: 2411208504383973120
+    second: Kitcune_Spritelist_97
+  - first:
+      213: -1849025095798232470
+    second: Kitcune_Spritelist_98
+  - first:
+      213: -4103695388869672472
+    second: Kitcune_Spritelist_99
+  - first:
+      213: 7964242369016555786
+    second: Kitcune_Spritelist_100
+  - first:
+      213: -170888295280197751
+    second: Kitcune_Spritelist_101
+  - first:
+      213: 8373841426741560068
+    second: Kitcune_Spritelist_102
+  - first:
+      213: 8393288247011265611
+    second: Kitcune_Spritelist_103
+  - first:
+      213: -521289056612717828
+    second: Kitcune_Spritelist_104
+  - first:
+      213: 7288114859583666226
+    second: Kitcune_Spritelist_105
+  - first:
+      213: -5808767062537702169
+    second: Kitcune_Spritelist_106
+  - first:
+      213: 4914889150717661174
+    second: Kitcune_Spritelist_107
+  - first:
+      213: -6051733227328627057
+    second: Kitcune_Spritelist_108
+  - first:
+      213: 6957291553917822675
+    second: Kitcune_Spritelist_109
+  - first:
+      213: -7853007608234233094
+    second: Kitcune_Spritelist_110
+  - first:
+      213: -5900233889819608672
+    second: Kitcune_Spritelist_111
+  - first:
+      213: 818365689241968073
+    second: Kitcune_Spritelist_112
+  - first:
+      213: 7949185415788506268
+    second: Kitcune_Spritelist_113
+  - first:
+      213: 6813420460344607264
+    second: Kitcune_Spritelist_114
+  - first:
+      213: -923115393883100082
+    second: Kitcune_Spritelist_115
+  - first:
+      213: -3170653008258369788
+    second: Kitcune_Spritelist_116
+  - first:
+      213: 998650542142989787
+    second: Kitcune_Spritelist_117
+  - first:
+      213: 2840074352988904806
+    second: Kitcune_Spritelist_118
+  - first:
+      213: -4746905321413206283
+    second: Kitcune_Spritelist_119
+  - first:
+      213: 3830555504428600998
+    second: Kitcune_Spritelist_120
+  - first:
+      213: -917915426439120589
+    second: Kitcune_Spritelist_121
+  - first:
+      213: 467957397546992782
+    second: Kitcune_Spritelist_122
+  - first:
+      213: 6139870199270798535
+    second: Kitcune_Spritelist_123
+  - first:
+      213: 1886801198394698625
+    second: Kitcune_Spritelist_124
+  - first:
+      213: 7902046087304544443
+    second: Kitcune_Spritelist_125
+  - first:
+      213: -2072932251710702592
+    second: Kitcune_Spritelist_126
+  - first:
+      213: 5615817832694986929
+    second: Kitcune_Spritelist_127
+  - first:
+      213: -8228907460372792665
+    second: Kitcune_Spritelist_128
+  - first:
+      213: -3702422782170683722
+    second: Kitcune_Spritelist_129
+  - first:
+      213: 1409504519543301011
+    second: Kitcune_Spritelist_130
+  - first:
+      213: -2554662077331443517
+    second: Kitcune_Spritelist_131
+  - first:
+      213: -521811114556965981
+    second: Kitcune_Spritelist_132
+  - first:
+      213: -883771283554191374
+    second: Kitcune_Spritelist_133
+  - first:
+      213: -4730705210454191016
+    second: Kitcune_Spritelist_134
+  - first:
+      213: -8574637639190635789
+    second: Kitcune_Spritelist_135
+  - first:
+      213: 7291412162903663894
+    second: Kitcune_Spritelist_136
+  - first:
+      213: -7402656590053198946
+    second: Kitcune_Spritelist_137
+  - first:
+      213: -236938605236522920
+    second: Kitcune_Spritelist_138
+  - first:
+      213: -3325043902515623517
+    second: Kitcune_Spritelist_139
+  - first:
+      213: -6633091091740861654
+    second: Kitcune_Spritelist_140
+  - first:
+      213: -4429462410365079973
+    second: Kitcune_Spritelist_141
+  - first:
+      213: 249509183332113716
+    second: Kitcune_Spritelist_142
+  - first:
+      213: 3172280851049873677
+    second: Kitcune_Spritelist_143
+  - first:
+      213: -4548895711754606880
+    second: Kitcune_Spritelist_144
+  - first:
+      213: -6751348754275989334
+    second: Kitcune_Spritelist_145
+  - first:
+      213: -8130964058963907535
+    second: Kitcune_Spritelist_146
+  - first:
+      213: 6352865525469493372
+    second: Kitcune_Spritelist_147
+  - first:
+      213: -2224049295887999895
+    second: Kitcune_Spritelist_148
+  - first:
+      213: 7441965374838187128
+    second: Kitcune_Spritelist_149
+  - first:
+      213: 3570460853463186410
+    second: Kitcune_Spritelist_150
+  - first:
+      213: -4048380792219771089
+    second: Kitcune_Spritelist_151
+  - first:
+      213: -1827077459466383712
+    second: Kitcune_Spritelist_152
+  - first:
+      213: 6146980025407213688
+    second: Kitcune_Spritelist_153
+  - first:
+      213: 5814799387854108441
+    second: Kitcune_Spritelist_154
+  - first:
+      213: -7203640026652043449
+    second: Kitcune_Spritelist_155
+  - first:
+      213: -4252446012105313647
+    second: Kitcune_Spritelist_156
+  - first:
+      213: -826588230476738271
+    second: Kitcune_Spritelist_157
+  - first:
+      213: -8594205655421181105
+    second: Kitcune_Spritelist_158
+  - first:
+      213: -333627851815349934
+    second: Kitcune_Spritelist_159
+  - first:
+      213: 6013734820345848277
+    second: Kitcune_Spritelist_160
+  - first:
+      213: -6538039024687722672
+    second: Kitcune_Spritelist_161
+  - first:
+      213: -6423946101392940107
+    second: Kitcune_Spritelist_162
+  - first:
+      213: 2564165586997855040
+    second: Kitcune_Spritelist_163
+  - first:
+      213: -8207292506726908946
+    second: Kitcune_Spritelist_164
+  - first:
+      213: 8674160512039143812
+    second: Kitcune_Spritelist_165
+  - first:
+      213: -6056270560083225874
+    second: Kitcune_Spritelist_166
+  - first:
+      213: 6037839896096371432
+    second: Kitcune_Spritelist_167
+  - first:
+      213: 6938774612281402441
+    second: Kitcune_Spritelist_168
+  - first:
+      213: 2950780931527706511
+    second: Kitcune_Spritelist_169
+  - first:
+      213: 304055150775857694
+    second: Kitcune_Spritelist_170
+  - first:
+      213: 3371944077221668152
+    second: Kitcune_Spritelist_171
+  - first:
+      213: -6707843029816922725
+    second: Kitcune_Spritelist_172
+  - first:
+      213: 1204088094787622447
+    second: Kitcune_Spritelist_173
+  - first:
+      213: 258121068259655448
+    second: Kitcune_Spritelist_174
+  - first:
+      213: -3837824422112594245
+    second: Kitcune_Spritelist_175
+  - first:
+      213: -2563222593519118607
+    second: Kitcune_Spritelist_176
+  - first:
+      213: -1937997133761808493
+    second: Kitcune_Spritelist_177
+  - first:
+      213: 2756581553937160279
+    second: Kitcune_Spritelist_178
+  - first:
+      213: 4330225534718455449
+    second: Kitcune_Spritelist_179
+  - first:
+      213: 1171614125472694067
+    second: Kitcune_Spritelist_180
+  - first:
+      213: 1751990162351611539
+    second: Kitcune_Spritelist_181
+  - first:
+      213: -2937135261863768379
+    second: Kitcune_Spritelist_182
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1153
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3613957b5f90f530800000000000000
+      internalID: 3886781693584152126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1153
+        width: 44
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e8b638ea1d71eb0800000000000000
+      internalID: -4749096734579519854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1153
+        width: 45
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d434d08bff667f0800000000000000
+      internalID: -619526732755284700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_3
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1153
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5b9f4a6ae4517f0800000000000000
+      internalID: -642520894191061531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_4
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1153
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0be2aeb7871d68d0800000000000000
+      internalID: -2851597117269284081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_5
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1153
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7761f3dd82459420800000000000000
+      internalID: 2636086333808928639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_6
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1153
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265b8d04611feca20800000000000000
+      internalID: 3084667872674887010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_7
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1153
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a890bc529d2359fe0800000000000000
+      internalID: -1182983418891531894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_8
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1198
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8041564091d4b4b10800000000000000
+      internalID: 1966750432120607752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_9
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1191
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f84d49e8e41d140800000000000000
+      internalID: 4742658256887123841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_10
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 1192
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cdad46e44dc27370800000000000000
+      internalID: 8318937157512048071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_11
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 1189
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fcdabaed68ee7f0800000000000000
+      internalID: -581379010963058792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_12
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 1189
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e75b8f02974f2d80800000000000000
+      internalID: -8273315297804724252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_13
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 1210
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e7c031f3e19e910800000000000000
+      internalID: 1867056776773139977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_14
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 1204
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff36bf40e1e28da0800000000000000
+      internalID: -5943940204649365506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_15
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1197
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c402bcb6710412e0800000000000000
+      internalID: -2156096712120073018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_16
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1198
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e7933152adccfe0800000000000000
+      internalID: -1167318350624620988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_17
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 1199
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3810951ef18b84f10800000000000000
+      internalID: 2254254060563136899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_18
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1198
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f35e5a3751b5c8b0800000000000000
+      internalID: -5132501212119280656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_19
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 1198
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54abf7faed3650250800000000000000
+      internalID: 5910239894071917125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_20
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 1198
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6251c2f9f0b937190800000000000000
+      internalID: -7965852824490994394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_21
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 1197
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b559e104de9ecf70800000000000000
+      internalID: 9209472921421567413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_22
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1195
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbfdfd27f8304c90800000000000000
+      internalID: -7187682371003614265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_23
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 1190
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba04e4e96b3d44a0800000000000000
+      internalID: -6607559752284894535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1023
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64307600e387416a0800000000000000
+      internalID: -6479421756189244602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_25
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1023
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170acc651982a30f0800000000000000
+      internalID: -1136551351266008975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_26
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1023
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8baf8804f790e5650800000000000000
+      internalID: 6223422177220819640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_27
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1023
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729a13bae72ad92d0800000000000000
+      internalID: -3270279089479374553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_28
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1023
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8aa869f2769ab70800000000000000
+      internalID: 8910766791816030390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_29
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1023
+        width: 53
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498c81e5a2faaf540800000000000000
+      internalID: 5042535329296861332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_30
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1023
+        width: 55
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433f3c750a338d3b0800000000000000
+      internalID: -5487579382190705868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_31
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1023
+        width: 48
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae532b59e1d73ded0800000000000000
+      internalID: -2390429406889626134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_32
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1075
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647b1b2b91e89adc0800000000000000
+      internalID: -3627211783846906042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_33
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1075
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a97a10e249515e0800000000000000
+      internalID: -1939481139195962789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_34
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1035
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae95aa609b013e290800000000000000
+      internalID: -7862422137591932438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_35
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 1072
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06898a30ce4c3c710800000000000000
+      internalID: 1712428801283627104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_36
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1073
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051e156b5392e32f0800000000000000
+      internalID: -991309557306105520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_37
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1066
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36e2c11013d419d0800000000000000
+      internalID: -2804384601974053316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_38
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 1063
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d368dfa0d0311e0800000000000000
+      internalID: -2228423049763996263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_39
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1062
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ed12a2a05d6ec10800000000000000
+      internalID: 2082586117338685069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_40
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 1062
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687271e948cf91500800000000000000
+      internalID: 367602491125606278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_41
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 1071
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95978e7e4732c1230800000000000000
+      internalID: 3610799986258245977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_42
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 1063
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f277329550e56be30800000000000000
+      internalID: 4518902653176215343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_43
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 1071
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef1bfe8e595c19b0800000000000000
+      internalID: -5108109614684364825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_44
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 1067
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d780513fc5094490800000000000000
+      internalID: -7761666095352608813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 895
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b090a66881ef2a0800000000000000
+      internalID: -6701892229897057440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_46
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 895
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05538afaa67cf6060800000000000000
+      internalID: 6948992011083461968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_47
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 895
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f799585cbb4a9620800000000000000
+      internalID: 2781618992162904048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_48
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 895
+        width: 53
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a02d25640340530800000000000000
+      internalID: 3820231462512364042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_49
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 895
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ca7a7146aebc670800000000000000
+      internalID: 8560193232362253346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_50
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 895
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0bda157de9ecb10800000000000000
+      internalID: 2003713531851944135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_51
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 895
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2cafc80698a0fc0800000000000000
+      internalID: -3527856310316252430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_52
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 895
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f06ded0147cc08e0800000000000000
+      internalID: -1725785474969280271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_53
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 767
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff37d1e629e9ad00800000000000000
+      internalID: 984574346764173297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_54
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 767
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f6fcf25391801a0800000000000000
+      internalID: -6843191917563383925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_55
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 769
+        width: 53
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fe87d58b60d9610800000000000000
+      internalID: 1629466029089943369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_56
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 775
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed2c3059089db2b0800000000000000
+      internalID: -5567126398591816215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_57
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 773
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9144d216e64d191b0800000000000000
+      internalID: -5651502486831414247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_58
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 767
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef3eefa5774d0a70800000000000000
+      internalID: 8794764218112819175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_59
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 767
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755944b20f0eb1000800000000000000
+      internalID: 7847146493875543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_60
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 767
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f777e841d58b93c60800000000000000
+      internalID: 7798466939685074815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_61
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 767
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa573646231f1ad0800000000000000
+      internalID: -2729441794055513359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_62
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 767
+        width: 49
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345009c55987a8e30800000000000000
+      internalID: 4506546960036005187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_63
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 639
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751f2950deb44ef50800000000000000
+      internalID: 6909731209666031959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_64
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 639
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2338aa43efae4f0800000000000000
+      internalID: -798546481752362243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_65
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 639
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf2ac73d3e137a90800000000000000
+      internalID: -7317471721269088333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_66
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 639
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39d65534347ae2a0800000000000000
+      internalID: -6707420927432926915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_67
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 639
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667899458eadf5b50800000000000000
+      internalID: 6584221871625570150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_68
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 639
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a66a7b2b75746f0800000000000000
+      internalID: -700494791935890834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_69
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 639
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd17e3325489b20e0800000000000000
+      internalID: -2293572162503675427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_70
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 639
+        width: 110
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e790a24b99c45f7a0800000000000000
+      internalID: -6344080277045114498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_71
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 639
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f0561a21bc64220800000000000000
+      internalID: 2469884726536900462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_72
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 678
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11815960d6331fce0800000000000000
+      internalID: -1373259868016404463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_73
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 639
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90f46e9e045e5ed0800000000000000
+      internalID: -2423407127715057508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_74
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 684
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66dc6884e30dad230800000000000000
+      internalID: 3664470212742663526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_75
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 677
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40d471b45176e250800000000000000
+      internalID: 5973586564321955917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_76
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 664
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f813e26d7363a62e0800000000000000
+      internalID: -2131831860162055793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_77
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 672
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff93c94e556ce3f0800000000000000
+      internalID: -870209172350459920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_78
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 673
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05226ed019ad24260800000000000000
+      internalID: 7080461880718139984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_79
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 654
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77eb71871ea94d410800000000000000
+      internalID: 1500994868994358903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_80
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 664
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cc126d89d96e8b0800000000000000
+      internalID: -5123234246334231479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_81
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 654
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a16926707bd6f60800000000000000
+      internalID: 8029274953018120742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_82
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 653
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c554b358f281adb80800000000000000
+      internalID: -8369350365136861860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_83
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 656
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f310c44377d93f630800000000000000
+      internalID: 3959681632692863295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_84
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 641
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa00642a453808800800000000000000
+      internalID: 612633948845375658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_85
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 640
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6f357a0b9670dd0800000000000000
+      internalID: -2519929259048044852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_86
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 639
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72576450e433a7690800000000000000
+      internalID: -7603708610672691929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_87
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 587
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b22b38fbdef4230800000000000000
+      internalID: 3625377631860566914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_88
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 511
+        width: 71
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25f420d7762b88a0800000000000000
+      internalID: -6301900957539830486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_89
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 511
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdcaefe0c9b66a90800000000000000
+      internalID: -7320959905934160397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_90
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 582
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9589575d88643c20800000000000000
+      internalID: 3185285792722945434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_91
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 589
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939bf3992a38d8e10800000000000000
+      internalID: 2201560527233071417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_92
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 579
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a06a5230f70a4a0800000000000000
+      internalID: -6584123003722397182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_93
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 511
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ed795417ff151b0800000000000000
+      internalID: -5669469593918775768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_94
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 583
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5287bea732615fb00800000000000000
+      internalID: 861619245353236517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_95
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 588
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ded40fa9790767b0800000000000000
+      internalID: -5231202023935516971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_96
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 580
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9c603b0ddda36f0800000000000000
+      internalID: -704006503303558667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_97
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 511
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007253f0c55567120800000000000000
+      internalID: 2411208504383973120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_98
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 583
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ae920d871f656e0800000000000000
+      internalID: -1849025095798232470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_99
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 588
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1c30049cebc07c0800000000000000
+      internalID: -4103695388869672472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_100
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 581
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09e85efc3ca68e60800000000000000
+      internalID: 7964242369016555786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_101
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 511
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f3d873002e0adf0800000000000000
+      internalID: -170888295280197751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_102
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 584
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403816e396cd53470800000000000000
+      internalID: 8373841426741560068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_103
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 589
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c419ce033fa7470800000000000000
+      internalID: 8393288247011265611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_104
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 582
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfaec4b6d5204c8f0800000000000000
+      internalID: -521289056612717828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_105
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 511
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238fab7c9d5942560800000000000000
+      internalID: 7288114859583666226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_106
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 583
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4737ef12d136fa0800000000000000
+      internalID: -5808767062537702169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_107
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 588
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff82f274a1353440800000000000000
+      internalID: 4914889150717661174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_108
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 581
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e16a571bce30ca0800000000000000
+      internalID: -6051733227328627057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_109
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 511
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6e8169ec34d8060800000000000000
+      internalID: 6957291553917822675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_110
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 583
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af232c4ff23840390800000000000000
+      internalID: -7853007608234233094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_111
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 588
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9b499b9882e1ea0800000000000000
+      internalID: -5900233889819608672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_112
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 581
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd92ab224b6b5b00800000000000000
+      internalID: 818365689241968073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_113
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 511
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c2ac1e40e215e60800000000000000
+      internalID: 7949185415788506268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_114
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 583
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02208344fc12e8e50800000000000000
+      internalID: 6813420460344607264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_115
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 588
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c27eca07f6033f0800000000000000
+      internalID: -923115393883100082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_116
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 581
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4077cb843e39ff3d0800000000000000
+      internalID: -3170653008258369788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_117
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 511
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd52f23806bebdd00800000000000000
+      internalID: 998650542142989787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_118
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 511
+        width: 79
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66dd991a398f96720800000000000000
+      internalID: 2840074352988904806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_119
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 564
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe11c6a2ca9f1eb0800000000000000
+      internalID: -4746905321413206283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_120
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 556
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae42e5afedd82530800000000000000
+      internalID: 3830555504428600998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_121
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 563
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339be3178c8e243f0800000000000000
+      internalID: -917915426439120589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_122
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 556
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e840ec216c48e7600800000000000000
+      internalID: 467957397546992782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_123
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 563
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4fa827a63353550800000000000000
+      internalID: 6139870199270798535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_124
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 563
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18be81871b34f2a10800000000000000
+      internalID: 1886801198394698625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_125
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 564
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb08d80bc05b9ad60800000000000000
+      internalID: 7902046087304544443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_126
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 563
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c355599177b33e0800000000000000
+      internalID: -2072932251710702592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_127
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 563
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8b611a0946fed40800000000000000
+      internalID: 5615817832694986929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_128
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 563
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aafaee634c0dcd80800000000000000
+      internalID: -8228907460372792665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_129
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 536
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6276c881a5e9cc0800000000000000
+      internalID: -3702422782170683722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_130
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 542
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393afa484e09f8310800000000000000
+      internalID: 1409504519543301011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_131
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 534
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c07f7730640c8cd0800000000000000
+      internalID: -2554662077331443517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_132
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 541
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab3bf45e8722c8f0800000000000000
+      internalID: -521811114556965981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_133
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 535
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7bf0533b63cb3f0800000000000000
+      internalID: -883771283554191374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_134
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 543
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854d9c9eca8295eb0800000000000000
+      internalID: -4730705210454191016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_135
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 535
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa195e5f74c00980800000000000000
+      internalID: -8574637639190635789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_136
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 536
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615e5d80bbc403560800000000000000
+      internalID: 7291412162903663894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_137
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 535
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93bca36d0b744990800000000000000
+      internalID: -7402656590053198946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_138
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 535
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850fc49089936bcf0800000000000000
+      internalID: -236938605236522920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_139
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 534
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a94affff221bd1d0800000000000000
+      internalID: -3325043902515623517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_140
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 383
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b5af1bbc682f3a0800000000000000
+      internalID: -6633091091740861654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_141
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 383
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e6e34f7636782c0800000000000000
+      internalID: -4429462410365079973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_142
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 383
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d55b0c74f667300800000000000000
+      internalID: 249509183332113716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_143
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 383
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d010a9660a4360c20800000000000000
+      internalID: 3172280851049873677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_144
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 425
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6a19483731fd0c0800000000000000
+      internalID: -4548895711754606880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_145
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 383
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa88a9204146e42a0800000000000000
+      internalID: -6751348754275989334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_146
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 422
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cecff9443092f80800000000000000
+      internalID: -8130964058963907535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_147
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 383
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c783f675989e92850800000000000000
+      internalID: 6352865525469493372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_148
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 423
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c53abe2f69221e0800000000000000
+      internalID: -2224049295887999895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_149
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 383
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874acf5441c274760800000000000000
+      internalID: 7441965374838187128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_150
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 422
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb7c17aa33dc8130800000000000000
+      internalID: 3570460853463186410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_151
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 255
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fd9346e1341d7c0800000000000000
+      internalID: -4048380792219771089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_152
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 255
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae026b1bbae4a6e0800000000000000
+      internalID: -1827077459466383712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_153
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 255
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87091d7d3c57e4550800000000000000
+      internalID: 6146980025407213688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_154
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 255
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917f3313c3152b050800000000000000
+      internalID: 5814799387854108441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_155
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 255
+        width: 52
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7479e91ff87870c90800000000000000
+      internalID: -7203640026652043449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_156
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 255
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192bfe5e1e64cf4c0800000000000000
+      internalID: -4252446012105313647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_157
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 127
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1215ae2426e5784f0800000000000000
+      internalID: -826588230476738271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_158
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 127
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43a7fd8d7f3bb880800000000000000
+      internalID: -8594205655421181105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_159
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2519e558c37be5bf0800000000000000
+      internalID: -333627851815349934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_160
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 55
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1ac1cf4f3157350800000000000000
+      internalID: 6013734820345848277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_161
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fc8d5a5283445a0800000000000000
+      internalID: -6538039024687722672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_162
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 0
+        width: 49
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3e73a6e0f89d6a0800000000000000
+      internalID: -6423946101392940107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_163
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 0
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043c94e040fb59320800000000000000
+      internalID: 2564165586997855040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_164
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 35
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb31d003f6d91e80800000000000000
+      internalID: -8207292506726908946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_165
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48940dc270fc06870800000000000000
+      internalID: 8674160512039143812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_166
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 0
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2559a530ec3fba0800000000000000
+      internalID: -6056270560083225874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_167
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 49
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e271894567bac350800000000000000
+      internalID: 6037839896096371432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_168
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 59
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94428852fba7b4060800000000000000
+      internalID: 6938774612281402441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_169
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 38
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8784b19f9743f820800000000000000
+      internalID: 2950780931527706511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_170
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 35
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e127f167c88383400800000000000000
+      internalID: 304055150775857694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_171
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 45
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835a74dd54d8bce20800000000000000
+      internalID: 3371944077221668152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_172
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 44
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9daea6dd44f8e2a0800000000000000
+      internalID: -6707843029816922725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_173
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 26
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26d7102eb7c5b010800000000000000
+      internalID: 1204088094787622447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_174
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 8
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f39a67eb7059300800000000000000
+      internalID: 258121068259655448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_175
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 31
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6f8a1950f4dbac0800000000000000
+      internalID: -3837824422112594245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_176
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 34
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f69909b1aa9d6cd0800000000000000
+      internalID: -2563222593519118607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_177
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 19
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397f662ffd9da15e0800000000000000
+      internalID: -1937997133761808493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_178
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75891dc7158514620800000000000000
+      internalID: 2756581553937160279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_179
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 11
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e283a6e2d081c30800000000000000
+      internalID: 4330225534718455449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_180
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 18
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f31a2f6d8624010800000000000000
+      internalID: 1171614125472694067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_181
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e52fc25c1505810800000000000000
+      internalID: 1751990162351611539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitcune_Spritelist_182
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 13
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce065b7a033d37d0800000000000000
+      internalID: -2937135261863768379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

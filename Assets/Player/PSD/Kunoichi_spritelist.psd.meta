@@ -1,0 +1,1892 @@
+fileFormatVersion: 2
+guid: 9cbbf7fc65f8005439557c01f2b77c9c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8709712523012335771
+    second: Kunoichi_spritelist_0
+  - first:
+      213: -2742322758282719412
+    second: Kunoichi_spritelist_1
+  - first:
+      213: 8918656106622634235
+    second: Kunoichi_spritelist_2
+  - first:
+      213: -6127783804665316284
+    second: Kunoichi_spritelist_3
+  - first:
+      213: 8821225627023055326
+    second: Kunoichi_spritelist_4
+  - first:
+      213: -7338848780297799629
+    second: Kunoichi_spritelist_5
+  - first:
+      213: -2839283335957531091
+    second: Kunoichi_spritelist_6
+  - first:
+      213: 9249125092128992
+    second: Kunoichi_spritelist_7
+  - first:
+      213: 3325424284980097393
+    second: Kunoichi_spritelist_8
+  - first:
+      213: 114239570588720163
+    second: Kunoichi_spritelist_9
+  - first:
+      213: 3652435605849279410
+    second: Kunoichi_spritelist_10
+  - first:
+      213: -3971944629602173105
+    second: Kunoichi_spritelist_11
+  - first:
+      213: -2522990703056723820
+    second: Kunoichi_spritelist_12
+  - first:
+      213: -3674412327619080521
+    second: Kunoichi_spritelist_13
+  - first:
+      213: 3223896941892875229
+    second: Kunoichi_spritelist_14
+  - first:
+      213: -316451257565242539
+    second: Kunoichi_spritelist_15
+  - first:
+      213: 6937091833331221099
+    second: Kunoichi_spritelist_16
+  - first:
+      213: -3640274097524148984
+    second: Kunoichi_spritelist_17
+  - first:
+      213: 232444304293418859
+    second: Kunoichi_spritelist_18
+  - first:
+      213: -5745256024895270538
+    second: Kunoichi_spritelist_19
+  - first:
+      213: 5322308948457576201
+    second: Kunoichi_spritelist_20
+  - first:
+      213: -268166137327281691
+    second: Kunoichi_spritelist_21
+  - first:
+      213: -3090190131240239425
+    second: Kunoichi_spritelist_22
+  - first:
+      213: 9071977288976464858
+    second: Kunoichi_spritelist_23
+  - first:
+      213: -6080557282751520831
+    second: Kunoichi_spritelist_24
+  - first:
+      213: -5106934966520969608
+    second: Kunoichi_spritelist_25
+  - first:
+      213: 1722897902536437047
+    second: Kunoichi_spritelist_26
+  - first:
+      213: 4986499554579948224
+    second: Kunoichi_spritelist_27
+  - first:
+      213: -7953159573910637415
+    second: Kunoichi_spritelist_28
+  - first:
+      213: -8637343914929828578
+    second: Kunoichi_spritelist_29
+  - first:
+      213: 2632363403614260331
+    second: Kunoichi_spritelist_30
+  - first:
+      213: 7592216521538211948
+    second: Kunoichi_spritelist_31
+  - first:
+      213: 5905075990507487534
+    second: Kunoichi_spritelist_32
+  - first:
+      213: 7355450429783270037
+    second: Kunoichi_spritelist_33
+  - first:
+      213: -3434518161695558083
+    second: Kunoichi_spritelist_34
+  - first:
+      213: 6152027070139907332
+    second: Kunoichi_spritelist_35
+  - first:
+      213: 2229344100225325744
+    second: Kunoichi_spritelist_36
+  - first:
+      213: 6766572598451680534
+    second: Kunoichi_spritelist_37
+  - first:
+      213: 277653056023748392
+    second: Kunoichi_spritelist_38
+  - first:
+      213: -2383986545900163377
+    second: Kunoichi_spritelist_39
+  - first:
+      213: -7503133139891004778
+    second: Kunoichi_spritelist_40
+  - first:
+      213: -3604029347231856736
+    second: Kunoichi_spritelist_41
+  - first:
+      213: -2920717356356481736
+    second: Kunoichi_spritelist_42
+  - first:
+      213: 5984018378163552577
+    second: Kunoichi_spritelist_43
+  - first:
+      213: 2234528251487505671
+    second: Kunoichi_spritelist_44
+  - first:
+      213: 1340192787305986367
+    second: Kunoichi_spritelist_45
+  - first:
+      213: 5133629884807692665
+    second: Kunoichi_spritelist_46
+  - first:
+      213: -5441426609595035428
+    second: Kunoichi_spritelist_47
+  - first:
+      213: 2918744078508448667
+    second: Kunoichi_spritelist_48
+  - first:
+      213: -160160192810636623
+    second: Kunoichi_spritelist_49
+  - first:
+      213: 7265531741700716554
+    second: Kunoichi_spritelist_50
+  - first:
+      213: 2472831681604439994
+    second: Kunoichi_spritelist_51
+  - first:
+      213: 4432049237907864931
+    second: Kunoichi_spritelist_52
+  - first:
+      213: 1627549062904481222
+    second: Kunoichi_spritelist_53
+  - first:
+      213: 2356841377122798463
+    second: Kunoichi_spritelist_54
+  - first:
+      213: -418062975427855582
+    second: Kunoichi_spritelist_55
+  - first:
+      213: 5374164814652417930
+    second: Kunoichi_spritelist_56
+  - first:
+      213: -8284968021779727630
+    second: Kunoichi_spritelist_57
+  - first:
+      213: 5271719950213853084
+    second: Kunoichi_spritelist_58
+  - first:
+      213: -6870455649808745656
+    second: Kunoichi_spritelist_59
+  - first:
+      213: 3756652014164785377
+    second: Kunoichi_spritelist_60
+  - first:
+      213: -529628018606468958
+    second: Kunoichi_spritelist_61
+  - first:
+      213: -8393892742072845511
+    second: Kunoichi_spritelist_62
+  - first:
+      213: 2548548439993460407
+    second: Kunoichi_spritelist_63
+  - first:
+      213: -2548596727390108608
+    second: Kunoichi_spritelist_64
+  - first:
+      213: -4464140523078233215
+    second: Kunoichi_spritelist_65
+  - first:
+      213: -737530373446619194
+    second: Kunoichi_spritelist_66
+  - first:
+      213: -6219786253570770415
+    second: Kunoichi_spritelist_67
+  - first:
+      213: -3282519961210839397
+    second: Kunoichi_spritelist_68
+  - first:
+      213: -2016685491121411756
+    second: Kunoichi_spritelist_69
+  - first:
+      213: -3854690205563955950
+    second: Kunoichi_spritelist_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1241
+        width: 25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567141a3b92e02780800000000000000
+      internalID: -8709712523012335771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1241
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fc6151bff41f9d0800000000000000
+      internalID: -2742322758282719412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1241
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf84c15d97e65cb70800000000000000
+      internalID: 8918656106622634235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_3
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1241
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c3886981db5faa0800000000000000
+      internalID: -6127783804665316284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_4
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1241
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9184e88f94b6a70800000000000000
+      internalID: 8821225627023055326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_5
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1241
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3387a0ecaeb272a90800000000000000
+      internalID: -7338848780297799629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_6
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1241
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26b09f59d6d898d0800000000000000
+      internalID: -2839283335957531091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_7
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1241
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8799fb70cd02000800000000000000
+      internalID: 9249125092128992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_8
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1241
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17132b1b4c7462e20800000000000000
+      internalID: 3325424284980097393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1103
+        width: 22
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cdb30c84cd59100800000000000000
+      internalID: 114239570588720163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_10
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1103
+        width: 24
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb82a305de00b230800000000000000
+      internalID: 3652435605849279410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_11
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1103
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fba055761d0e8c0800000000000000
+      internalID: -3971944629602173105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_12
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1103
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490e0bca2598cfcd0800000000000000
+      internalID: -2522990703056723820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_13
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1103
+        width: 21
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bec2f5b47dd10dc0800000000000000
+      internalID: -3674412327619080521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_14
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1103
+        width: 24
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd33efd00359dbc20800000000000000
+      internalID: 3223896941892875229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_15
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1103
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b1914024dbb9bf0800000000000000
+      internalID: -316451257565242539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_16
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1103
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6288f3a440854060800000000000000
+      internalID: 6937091833331221099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_17
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 964
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805740ccef52b7dc0800000000000000
+      internalID: -3640274097524148984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_18
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 965
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67d87bfcdec93300800000000000000
+      internalID: 232444304293418859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_19
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 965
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671d174c510c440b0800000000000000
+      internalID: -5745256024895270538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_20
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 965
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90752b13ac3acd940800000000000000
+      internalID: 5322308948457576201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_21
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 965
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e991d3a158474cf0800000000000000
+      internalID: -268166137327281691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_22
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 965
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbef10bb2707d15d0800000000000000
+      internalID: -3090190131240239425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_23
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 965
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb7ad7674326ed70800000000000000
+      internalID: 9071977288976464858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_24
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 965
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf5e251e558d9ba0800000000000000
+      internalID: -6080557282751520831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_25
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 827
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8760f75a4b58029b0800000000000000
+      internalID: -5106934966520969608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 827
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d23f89386f8e710800000000000000
+      internalID: 1722897902536437047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_27
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 827
+        width: 89
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2a16fdcea933540800000000000000
+      internalID: 4986499554579948224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_28
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 827
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9943f035183b0a190800000000000000
+      internalID: -7953159573910637415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_29
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 827
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1dc9b3d87df12880800000000000000
+      internalID: -8637343914929828578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_30
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 827
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c8a289198088420800000000000000
+      internalID: 2632363403614260331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 689
+        width: 59
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60132873b8fc5960800000000000000
+      internalID: 7592216521538211948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_32
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 689
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2103e1b35b03f150800000000000000
+      internalID: 5905075990507487534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_33
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 689
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592e93ee13fc31660800000000000000
+      internalID: 7355450429783270037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_34
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 689
+        width: 79
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d363285cde32650d0800000000000000
+      internalID: -3434518161695558083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_35
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 689
+        width: 83
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40db6448604606550800000000000000
+      internalID: 6152027070139907332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_36
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 689
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba1b08c5a830fe10800000000000000
+      internalID: 2229344100225325744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_37
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 689
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615ba9d6de1b7ed50800000000000000
+      internalID: 6766572598451680534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_38
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 689
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fd81fbbfb6ad300800000000000000
+      internalID: 277653056023748392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_39
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 551
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce6f4e0ed06aeed0800000000000000
+      internalID: -2383986545900163377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_40
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 551
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ad55e99248fd790800000000000000
+      internalID: -7503133139891004778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_41
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 551
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a78926576aebfdc0800000000000000
+      internalID: -3604029347231856736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_42
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 551
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83dcd0df9078777d0800000000000000
+      internalID: -2920717356356481736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_43
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 551
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14109df92018b0350800000000000000
+      internalID: 5984018378163552577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_44
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 551
+        width: 115
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dcc7e0b93a20f10800000000000000
+      internalID: 2234528251487505671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_45
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 413
+        width: 23
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39f9e94d32599210800000000000000
+      internalID: 1340192787305986367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_46
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 413
+        width: 23
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971ca4c5e215e3740800000000000000
+      internalID: 5133629884807692665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_47
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 413
+        width: 23
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0dab7145b2c74b0800000000000000
+      internalID: -5441426609595035428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_48
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 413
+        width: 23
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b55c57646718820800000000000000
+      internalID: 2918744078508448667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_49
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 413
+        width: 23
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba2d58372ff6cdf0800000000000000
+      internalID: -160160192810636623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_50
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 413
+        width: 23
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a087568ef9a54d460800000000000000
+      internalID: 7265531741700716554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_51
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 413
+        width: 23
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf4d531053415220800000000000000
+      internalID: 2472831681604439994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_52
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 413
+        width: 23
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36df984cc4dc18d30800000000000000
+      internalID: 4432049237907864931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_53
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 413
+        width: 23
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c501f4ef37369610800000000000000
+      internalID: 1627549062904481222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_54
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 275
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bc853debe25b020800000000000000
+      internalID: 2356841377122798463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_55
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 275
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b31e750fdb23af0800000000000000
+      internalID: -418062975427855582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_56
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 275
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87a2c5ec6ed49a40800000000000000
+      internalID: 5374164814652417930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_57
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 286
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa3956da71e50d80800000000000000
+      internalID: -8284968021779727630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_58
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 303
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f26db2d59e82940800000000000000
+      internalID: 5271719950213853084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_59
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 311
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bf21cdcfc37a0a0800000000000000
+      internalID: -6870455649808745656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_60
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 307
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e83c017a1f422430800000000000000
+      internalID: 3756652014164785377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_61
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 275
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a01ed78f1266a8f0800000000000000
+      internalID: -529628018606468958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_62
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 275
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bb40a1607e28b80800000000000000
+      internalID: -8393892742072845511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_63
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 275
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6afaaad434e5320800000000000000
+      internalID: 2548548439993460407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_64
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 137
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044803c87c091acd0800000000000000
+      internalID: -2548596727390108608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_65
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 137
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183de76a8df2c02c0800000000000000
+      internalID: -4464140523078233215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_66
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf27af6804c3c5f0800000000000000
+      internalID: -737530373446619194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_67
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 0
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a7e013b51eea9a0800000000000000
+      internalID: -6219786253570770415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_68
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 0
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e16ef9c752272d0800000000000000
+      internalID: -3282519961210839397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_69
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459260e0b3b4304e0800000000000000
+      internalID: -2016685491121411756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunoichi_spritelist_70
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 0
+        width: 59
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215de2a5ea3618ac0800000000000000
+      internalID: -3854690205563955950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

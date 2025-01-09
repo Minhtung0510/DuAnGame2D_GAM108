@@ -1,0 +1,1617 @@
+fileFormatVersion: 2
+guid: f8d10c781468a264f91316325a8cfeab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6425835268807553442
+    second: Ninja_Peasant_spritelist_0
+  - first:
+      213: 5294223234941975643
+    second: Ninja_Peasant_spritelist_1
+  - first:
+      213: 4089426612339314580
+    second: Ninja_Peasant_spritelist_2
+  - first:
+      213: -5721716100737995826
+    second: Ninja_Peasant_spritelist_3
+  - first:
+      213: 1826263677077626633
+    second: Ninja_Peasant_spritelist_4
+  - first:
+      213: -1231392274692329677
+    second: Ninja_Peasant_spritelist_5
+  - first:
+      213: 4489373847726084660
+    second: Ninja_Peasant_spritelist_6
+  - first:
+      213: -7224034886635716540
+    second: Ninja_Peasant_spritelist_7
+  - first:
+      213: -2083578910977191505
+    second: Ninja_Peasant_spritelist_8
+  - first:
+      213: 2114364582634330790
+    second: Ninja_Peasant_spritelist_9
+  - first:
+      213: 8324487895486240957
+    second: Ninja_Peasant_spritelist_10
+  - first:
+      213: -3814210265446300421
+    second: Ninja_Peasant_spritelist_11
+  - first:
+      213: 4010720994821295835
+    second: Ninja_Peasant_spritelist_12
+  - first:
+      213: -5531099870397263515
+    second: Ninja_Peasant_spritelist_13
+  - first:
+      213: -2156499985499711793
+    second: Ninja_Peasant_spritelist_14
+  - first:
+      213: 839274276328808078
+    second: Ninja_Peasant_spritelist_15
+  - first:
+      213: 794895925876120966
+    second: Ninja_Peasant_spritelist_16
+  - first:
+      213: -1102280777098895820
+    second: Ninja_Peasant_spritelist_17
+  - first:
+      213: 601710925185923043
+    second: Ninja_Peasant_spritelist_18
+  - first:
+      213: 2115206001764126770
+    second: Ninja_Peasant_spritelist_19
+  - first:
+      213: 592154105391793117
+    second: Ninja_Peasant_spritelist_20
+  - first:
+      213: 7019099508678163495
+    second: Ninja_Peasant_spritelist_21
+  - first:
+      213: -1631065494594406420
+    second: Ninja_Peasant_spritelist_22
+  - first:
+      213: 3207374217418485994
+    second: Ninja_Peasant_spritelist_23
+  - first:
+      213: 3976844641333922457
+    second: Ninja_Peasant_spritelist_24
+  - first:
+      213: -4141683816848725466
+    second: Ninja_Peasant_spritelist_25
+  - first:
+      213: -8941390646986153255
+    second: Ninja_Peasant_spritelist_26
+  - first:
+      213: -6729676417443810648
+    second: Ninja_Peasant_spritelist_27
+  - first:
+      213: 4427764356202186993
+    second: Ninja_Peasant_spritelist_28
+  - first:
+      213: 2012758837342584471
+    second: Ninja_Peasant_spritelist_29
+  - first:
+      213: -2286842899306939405
+    second: Ninja_Peasant_spritelist_30
+  - first:
+      213: 5774844363007011453
+    second: Ninja_Peasant_spritelist_31
+  - first:
+      213: -5249556003543184381
+    second: Ninja_Peasant_spritelist_32
+  - first:
+      213: -6174984569393881804
+    second: Ninja_Peasant_spritelist_33
+  - first:
+      213: 5297886240368707761
+    second: Ninja_Peasant_spritelist_34
+  - first:
+      213: 2678127811658089979
+    second: Ninja_Peasant_spritelist_35
+  - first:
+      213: 5142335957335154067
+    second: Ninja_Peasant_spritelist_36
+  - first:
+      213: -8851465853574466117
+    second: Ninja_Peasant_spritelist_37
+  - first:
+      213: 4892386788573371445
+    second: Ninja_Peasant_spritelist_38
+  - first:
+      213: 3426487417707245009
+    second: Ninja_Peasant_spritelist_39
+  - first:
+      213: -9078093054043188010
+    second: Ninja_Peasant_spritelist_40
+  - first:
+      213: -1758769259092326007
+    second: Ninja_Peasant_spritelist_41
+  - first:
+      213: 1973389635791238907
+    second: Ninja_Peasant_spritelist_42
+  - first:
+      213: -2604815640326101917
+    second: Ninja_Peasant_spritelist_43
+  - first:
+      213: -4322161621257511117
+    second: Ninja_Peasant_spritelist_44
+  - first:
+      213: -4463228815954466389
+    second: Ninja_Peasant_spritelist_45
+  - first:
+      213: -8493041634075310748
+    second: Ninja_Peasant_spritelist_46
+  - first:
+      213: 2222096196123511347
+    second: Ninja_Peasant_spritelist_47
+  - first:
+      213: -7605944589693506949
+    second: Ninja_Peasant_spritelist_48
+  - first:
+      213: 5482783944648785419
+    second: Ninja_Peasant_spritelist_49
+  - first:
+      213: -7177386650183126362
+    second: Ninja_Peasant_spritelist_50
+  - first:
+      213: -7230175990394522266
+    second: Ninja_Peasant_spritelist_51
+  - first:
+      213: -2199352129016084268
+    second: Ninja_Peasant_spritelist_52
+  - first:
+      213: 790169560820132659
+    second: Ninja_Peasant_spritelist_53
+  - first:
+      213: -3943616832591285521
+    second: Ninja_Peasant_spritelist_54
+  - first:
+      213: -6691467293627320873
+    second: Ninja_Peasant_spritelist_55
+  - first:
+      213: -6537405913358978982
+    second: Ninja_Peasant_spritelist_56
+  - first:
+      213: -9057308015789673885
+    second: Ninja_Peasant_spritelist_57
+  - first:
+      213: 4313837067902517779
+    second: Ninja_Peasant_spritelist_58
+  - first:
+      213: -3992958950693429065
+    second: Ninja_Peasant_spritelist_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 863
+        width: 37
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a17376a1272d2950800000000000000
+      internalID: 6425835268807553442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 863
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cf5507bfbd87940800000000000000
+      internalID: 5294223234941975643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 863
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f838356df80c830800000000000000
+      internalID: 4089426612339314580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_3
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 863
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbe0e575816890b0800000000000000
+      internalID: -5721716100737995826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_4
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 863
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f196a6321385910800000000000000
+      internalID: 1826263677077626633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_5
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 863
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fadc7104739eee0800000000000000
+      internalID: -1231392274692329677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 767
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43254a19ab57d4e30800000000000000
+      internalID: 4489373847726084660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 767
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4408c019b821fbb90800000000000000
+      internalID: -7224034886635716540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_8
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 767
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa195bd0504a513e0800000000000000
+      internalID: -2083578910977191505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_9
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 767
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa1691b26bb75d10800000000000000
+      internalID: 2114364582634330790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_10
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 767
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db81f7bc2a5868370800000000000000
+      internalID: 8324487895486240957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_11
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 767
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4cc6dd8f3311bc0800000000000000
+      internalID: -3814210265446300421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_12
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 767
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde468dbe71f8a730800000000000000
+      internalID: 4010720994821295835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_13
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 767
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56113cf09f59d33b0800000000000000
+      internalID: -5531099870397263515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_14
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 671
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6972650b29212e0800000000000000
+      internalID: -2156499985499711793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_15
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 671
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e93b5f183b5ab00800000000000000
+      internalID: 839274276328808078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_16
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 671
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d504f02a9080b00800000000000000
+      internalID: 794895925876120966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_17
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 671
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e574e2979e3b0f0800000000000000
+      internalID: -1102280777098895820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_18
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 671
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7bd2106e4b95800800000000000000
+      internalID: 601710925185923043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_19
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 671
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230dce9d6a8ba5d10800000000000000
+      internalID: 2115206001764126770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 575
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3ca208501c73800800000000000000
+      internalID: 592154105391793117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_21
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 575
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c71e970d9d86160800000000000000
+      internalID: 7019099508678163495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_22
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 575
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7bd4d039a4d59e0800000000000000
+      internalID: -1631065494594406420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_23
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 575
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0b9fa7bd1e28c20800000000000000
+      internalID: 3207374217418485994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_24
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 575
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99acf9d8127903730800000000000000
+      internalID: 3976844641333922457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_25
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 575
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a6fbc1388c586c0800000000000000
+      internalID: -4141683816848725466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_26
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 575
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2e360849cc9e380800000000000000
+      internalID: -8941390646986153255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_27
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 575
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a230f424f26b92a0800000000000000
+      internalID: -6729676417443810648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_28
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 575
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f841900934927d30800000000000000
+      internalID: 4427764356202186993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_29
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 479
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e355e9f71ceeb10800000000000000
+      internalID: 2012758837342584471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_30
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 479
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb7fa1df708340e0800000000000000
+      internalID: -2286842899306939405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_31
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 479
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a233a0a5e542050800000000000000
+      internalID: 5774844363007011453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_32
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 479
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c0a4cc0a4d527b0800000000000000
+      internalID: -5249556003543184381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_33
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 479
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d52c7204c0e4aa0800000000000000
+      internalID: -6174984569393881804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_34
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 479
+        width: 96
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b84b99577fd58940800000000000000
+      internalID: 5297886240368707761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_35
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 383
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf589fc2e0f9a2520800000000000000
+      internalID: 2678127811658089979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_36
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 383
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d1ea4de4f3d5740800000000000000
+      internalID: 5142335957335154067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_37
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 383
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5b13804b6492580800000000000000
+      internalID: -8851465853574466117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_38
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 383
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cdabcfcdf35e340800000000000000
+      internalID: 4892386788573371445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_39
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 408
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd29cfe6245d8f20800000000000000
+      internalID: 3426487417707245009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_40
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 383
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d490d31772240280800000000000000
+      internalID: -9078093054043188010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_41
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 383
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989cced5da89797e0800000000000000
+      internalID: -1758769259092326007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_42
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 287
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf636c41b63e26b10800000000000000
+      internalID: 1973389635791238907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_43
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 287
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3642bfcd9f5d9dbd0800000000000000
+      internalID: -2604815640326101917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_44
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 287
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f9e1fb7e89404c0800000000000000
+      internalID: -4322161621257511117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_45
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 287
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba92fb10a0d6f02c0800000000000000
+      internalID: -4463228815954466389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_46
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 191
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4658652c1a7a22a80800000000000000
+      internalID: -8493041634075310748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_47
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 194
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a40ba97b876de10800000000000000
+      internalID: 2222096196123511347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_48
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 213
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7aa30691b1427690800000000000000
+      internalID: -7605944589693506949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_49
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 227
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e7109d2f2c61c40800000000000000
+      internalID: 5482783944648785419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_50
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 201
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2343c7edcc46c90800000000000000
+      internalID: -7177386650183126362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_51
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 191
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665f9fc6e3149ab90800000000000000
+      internalID: -7230175990394522266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_52
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 191
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d84ffd24e45a71e0800000000000000
+      internalID: -2199352129016084268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_53
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 191
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ba201770f37fa00800000000000000
+      internalID: 790169560820132659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_54
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 95
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2352b82657549c0800000000000000
+      internalID: -3943616832591285521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_55
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 95
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5f23903f12323a0800000000000000
+      internalID: -6691467293627320873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_56
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5033bd55f77645a0800000000000000
+      internalID: -6537405913358978982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_57
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362fe89e85afd4280800000000000000
+      internalID: -9057308015789673885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_58
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3120e3325f3dddb30800000000000000
+      internalID: 4313837067902517779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Peasant_spritelist_59
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 78
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0a33d6df82698c0800000000000000
+      internalID: -3992958950693429065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

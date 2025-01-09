@@ -1,0 +1,1842 @@
+fileFormatVersion: 2
+guid: ff80d4f6d4d962e489e3052aef8c13fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3433137302354148205
+    second: Karasu_tengu_Spritelist_0
+  - first:
+      213: -2423250338129145696
+    second: Karasu_tengu_Spritelist_1
+  - first:
+      213: 5859283949234883740
+    second: Karasu_tengu_Spritelist_2
+  - first:
+      213: -5203444944740466359
+    second: Karasu_tengu_Spritelist_3
+  - first:
+      213: 2655685872732800016
+    second: Karasu_tengu_Spritelist_4
+  - first:
+      213: -4064051888169155715
+    second: Karasu_tengu_Spritelist_5
+  - first:
+      213: 4796884130679208337
+    second: Karasu_tengu_Spritelist_6
+  - first:
+      213: -684223545962208182
+    second: Karasu_tengu_Spritelist_7
+  - first:
+      213: 8767768683126114796
+    second: Karasu_tengu_Spritelist_8
+  - first:
+      213: -4762418655175101988
+    second: Karasu_tengu_Spritelist_9
+  - first:
+      213: -1542161090365673662
+    second: Karasu_tengu_Spritelist_10
+  - first:
+      213: 1689281223156939834
+    second: Karasu_tengu_Spritelist_11
+  - first:
+      213: -270785540407918597
+    second: Karasu_tengu_Spritelist_12
+  - first:
+      213: -3489978273554099478
+    second: Karasu_tengu_Spritelist_13
+  - first:
+      213: 2676503392058958583
+    second: Karasu_tengu_Spritelist_14
+  - first:
+      213: -670425847478024180
+    second: Karasu_tengu_Spritelist_15
+  - first:
+      213: 5772344172206795867
+    second: Karasu_tengu_Spritelist_16
+  - first:
+      213: -6138561354575911050
+    second: Karasu_tengu_Spritelist_17
+  - first:
+      213: -3448407200466177509
+    second: Karasu_tengu_Spritelist_18
+  - first:
+      213: -7147650544119202629
+    second: Karasu_tengu_Spritelist_19
+  - first:
+      213: 8764973790851712779
+    second: Karasu_tengu_Spritelist_20
+  - first:
+      213: 2608049652568206352
+    second: Karasu_tengu_Spritelist_21
+  - first:
+      213: -69744664831472736
+    second: Karasu_tengu_Spritelist_22
+  - first:
+      213: 8387860974396727501
+    second: Karasu_tengu_Spritelist_23
+  - first:
+      213: 7199039296713514568
+    second: Karasu_tengu_Spritelist_24
+  - first:
+      213: -3775350299454300593
+    second: Karasu_tengu_Spritelist_25
+  - first:
+      213: -6229216811099988543
+    second: Karasu_tengu_Spritelist_26
+  - first:
+      213: 6215580914638516604
+    second: Karasu_tengu_Spritelist_27
+  - first:
+      213: 6236060806647294954
+    second: Karasu_tengu_Spritelist_28
+  - first:
+      213: -3123997775363440046
+    second: Karasu_tengu_Spritelist_29
+  - first:
+      213: -8132784286645335078
+    second: Karasu_tengu_Spritelist_30
+  - first:
+      213: -5317071955413203064
+    second: Karasu_tengu_Spritelist_31
+  - first:
+      213: 4884424723016548869
+    second: Karasu_tengu_Spritelist_32
+  - first:
+      213: -5190114348771944591
+    second: Karasu_tengu_Spritelist_33
+  - first:
+      213: 1258670615986098694
+    second: Karasu_tengu_Spritelist_34
+  - first:
+      213: -151416516882612225
+    second: Karasu_tengu_Spritelist_35
+  - first:
+      213: 4728952116404159841
+    second: Karasu_tengu_Spritelist_36
+  - first:
+      213: 189964954746209254
+    second: Karasu_tengu_Spritelist_37
+  - first:
+      213: 2938832736351548927
+    second: Karasu_tengu_Spritelist_38
+  - first:
+      213: -5277739756391411823
+    second: Karasu_tengu_Spritelist_39
+  - first:
+      213: -4086547711470893293
+    second: Karasu_tengu_Spritelist_40
+  - first:
+      213: -7431652677902524
+    second: Karasu_tengu_Spritelist_41
+  - first:
+      213: -1054671623227071043
+    second: Karasu_tengu_Spritelist_42
+  - first:
+      213: -3923609085077324807
+    second: Karasu_tengu_Spritelist_43
+  - first:
+      213: -8836227262189028435
+    second: Karasu_tengu_Spritelist_44
+  - first:
+      213: -3003326479733556674
+    second: Karasu_tengu_Spritelist_45
+  - first:
+      213: 1105933253637255893
+    second: Karasu_tengu_Spritelist_46
+  - first:
+      213: -9202462424867940897
+    second: Karasu_tengu_Spritelist_47
+  - first:
+      213: 7306567939702868705
+    second: Karasu_tengu_Spritelist_48
+  - first:
+      213: 7591535657659736224
+    second: Karasu_tengu_Spritelist_49
+  - first:
+      213: -1722371798420007878
+    second: Karasu_tengu_Spritelist_50
+  - first:
+      213: 3157291398184795281
+    second: Karasu_tengu_Spritelist_51
+  - first:
+      213: -5940633371771038797
+    second: Karasu_tengu_Spritelist_52
+  - first:
+      213: -235773267474482782
+    second: Karasu_tengu_Spritelist_53
+  - first:
+      213: 8034050091772998921
+    second: Karasu_tengu_Spritelist_54
+  - first:
+      213: 3346919172287496145
+    second: Karasu_tengu_Spritelist_55
+  - first:
+      213: -5325674342804608751
+    second: Karasu_tengu_Spritelist_56
+  - first:
+      213: 3788307033859431544
+    second: Karasu_tengu_Spritelist_57
+  - first:
+      213: 1108075742450474894
+    second: Karasu_tengu_Spritelist_58
+  - first:
+      213: -7829026634940925680
+    second: Karasu_tengu_Spritelist_59
+  - first:
+      213: -2432438296873337980
+    second: Karasu_tengu_Spritelist_60
+  - first:
+      213: -3601386059963562745
+    second: Karasu_tengu_Spritelist_61
+  - first:
+      213: 6730399890135706389
+    second: Karasu_tengu_Spritelist_62
+  - first:
+      213: -1389586057537965464
+    second: Karasu_tengu_Spritelist_63
+  - first:
+      213: -2399226669142100940
+    second: Karasu_tengu_Spritelist_64
+  - first:
+      213: 7400693779599118611
+    second: Karasu_tengu_Spritelist_65
+  - first:
+      213: -1580401144966420857
+    second: Karasu_tengu_Spritelist_66
+  - first:
+      213: 4789787168980854902
+    second: Karasu_tengu_Spritelist_67
+  - first:
+      213: -8631984234328069945
+    second: Karasu_tengu_Spritelist_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1153
+        width: 76
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b36fbdf24f4af20800000000000000
+      internalID: 3433137302354148205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1153
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a097f908a2ee5ed0800000000000000
+      internalID: -2423250338129145696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1153
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c0b4045bb505150800000000000000
+      internalID: 5859283949234883740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_3
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1153
+        width: 79
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941417c4466a9c7b0800000000000000
+      internalID: -5203444944740466359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_4
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1153
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01403471b34ead420800000000000000
+      internalID: 2655685872732800016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_5
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1153
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d730ce807569997c0800000000000000
+      internalID: -4064051888169155715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1023
+        width: 59
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199b7dda3b4f19240800000000000000
+      internalID: 4796884130679208337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1023
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44e6f36f462186f0800000000000000
+      internalID: -684223545962208182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_8
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1023
+        width: 67
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9c686e92f5da970800000000000000
+      internalID: 8767768683126114796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_9
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1023
+        width: 72
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1389a277d78edb0800000000000000
+      internalID: -4762418655175101988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_10
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1023
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f2356b8a4299ae0800000000000000
+      internalID: -1542161090365673662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_11
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1023
+        width: 62
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cb1008258817710800000000000000
+      internalID: 1689281223156939834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_12
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1023
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff7ca55cf9fd3cf0800000000000000
+      internalID: -270785540407918597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_13
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1023
+        width: 72
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae21afa304b119fc0800000000000000
+      internalID: -3489978273554099478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 895
+        width: 84
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f26dc387a9d42520800000000000000
+      internalID: 2676503392058958583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_15
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 895
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0805d86e3b22b6f0800000000000000
+      internalID: -670425847478024180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_16
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 895
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5caea1017c7b1050800000000000000
+      internalID: 5772344172206795867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_17
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 895
+        width: 85
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677ef84b8f27fcaa0800000000000000
+      internalID: -6138561354575911050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_18
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 895
+        width: 84
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12705febebc420d0800000000000000
+      internalID: -3448407200466177509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_19
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 895
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcb52333b17ecc90800000000000000
+      internalID: -7147650544119202629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_20
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 895
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b074355593173a970800000000000000
+      internalID: 8764973790851712779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_21
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 895
+        width: 85
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ca8e94757a13420800000000000000
+      internalID: 2608049652568206352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 767
+        width: 96
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abcdbbc897380ff0800000000000000
+      internalID: -69744664831472736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_23
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 767
+        width: 99
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0674c8d1ba76470800000000000000
+      internalID: 8387860974396727501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_24
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 767
+        width: 78
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84edfa4291028e360800000000000000
+      internalID: 7199039296713514568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_25
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 767
+        width: 81
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e9c52c7e24b9bc0800000000000000
+      internalID: -3775350299454300593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_26
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 767
+        width: 86
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd5e7960506d89a0800000000000000
+      internalID: -6229216811099988543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_27
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 769
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71f9b909ed224650800000000000000
+      internalID: 6215580914638516604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 774
+        width: 68
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeba2f97340fa8650800000000000000
+      internalID: 6236060806647294954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_29
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 769
+        width: 58
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2520a50339455a4d0800000000000000
+      internalID: -3123997775363440046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_30
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 769
+        width: 83
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb40a7d7cb822f80800000000000000
+      internalID: -8132784286645335078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_31
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 780
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88787644a37f536b0800000000000000
+      internalID: -5317071955413203064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_32
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 775
+        width: 68
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50289832866f8c340800000000000000
+      internalID: 4884424723016548869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_33
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 774
+        width: 75
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1775ac98f7209f7b0800000000000000
+      internalID: -5190114348771944591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_34
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 771
+        width: 88
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602d21ba142b77110800000000000000
+      internalID: 1258670615986098694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_35
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 767
+        width: 91
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffb51aea7f06edf0800000000000000
+      internalID: -151416516882612225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_36
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 767
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1650a1215ec90a140800000000000000
+      internalID: 4728952116404159841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_37
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 639
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3cb6fae14e2a200800000000000000
+      internalID: 189964954746209254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_38
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 639
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5f5889dc4d8c820800000000000000
+      internalID: 2938832736351548927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_39
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 639
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f455b77a3b1c6b0800000000000000
+      internalID: -5277739756391411823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_40
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 639
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3178714028aa947c0800000000000000
+      internalID: -4086547711470893293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_41
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 639
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f1a0683f895eff0800000000000000
+      internalID: -7431652677902524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_42
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 679
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5adde1fbd0d51f0800000000000000
+      internalID: -1054671623227071043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_43
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 672
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb7876435a8c89c0800000000000000
+      internalID: -3923609085077324807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_44
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 639
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabb9921f1a6f5580800000000000000
+      internalID: -8836227262189028435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_45
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 511
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3af4fe9a7a0256d0800000000000000
+      internalID: -3003326479733556674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_46
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 511
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d237584f60195f00800000000000000
+      internalID: 1105933253637255893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_47
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 511
+        width: 79
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5ddda6e294a4080800000000000000
+      internalID: -9202462424867940897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_48
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 552
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea4f3d44d4266560800000000000000
+      internalID: 7306567939702868705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_49
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 511
+        width: 79
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0258e757d8a5960800000000000000
+      internalID: 7591535657659736224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 383
+        width: 79
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34560099f7e818e0800000000000000
+      internalID: -1722371798420007878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_51
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 383
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c73317cc3f0db20800000000000000
+      internalID: 3157291398184795281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_52
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 417
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b391c65c61ae8da0800000000000000
+      internalID: -5940633371771038797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_53
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 412
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a976a0667d5abcf0800000000000000
+      internalID: -235773267474482782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_54
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 383
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905f2d30efdae7f60800000000000000
+      internalID: 8034050091772998921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_55
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 255
+        width: 76
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dff3242145a27e20800000000000000
+      internalID: 3346919172287496145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_56
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 255
+        width: 76
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11928bfd6676716b0800000000000000
+      internalID: -5325674342804608751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_57
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 255
+        width: 76
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c1e4d0d25c29430800000000000000
+      internalID: 3788307033859431544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_58
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 255
+        width: 76
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fdcf4540da06f00800000000000000
+      internalID: 1108075742450474894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_59
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 255
+        width: 76
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019364761c5b95390800000000000000
+      internalID: -7829026634940925680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_60
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 127
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bfec0b14e3e3ed0800000000000000
+      internalID: -2432438296873337980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_61
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 127
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70504dc957e450ec0800000000000000
+      internalID: -3601386059963562745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_62
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 127
+        width: 81
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bedd77a0f276d50800000000000000
+      internalID: 6730399890135706389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_63
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 85
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8623d9fc7d237bce0800000000000000
+      internalID: -1389586057537965464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_64
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434342a5e0c34bed0800000000000000
+      internalID: -2399226669142100940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_65
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 0
+        width: 87
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311d27038cb84b660800000000000000
+      internalID: 7400693779599118611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_66
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 85
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786e7af2889411ae0800000000000000
+      internalID: -1580401144966420857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_67
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 0
+        width: 92
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678e3d48d0eb87240800000000000000
+      internalID: 4789787168980854902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karasu_tengu_Spritelist_68
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 0
+        width: 92
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c86a16b218053880800000000000000
+      internalID: -8631984234328069945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

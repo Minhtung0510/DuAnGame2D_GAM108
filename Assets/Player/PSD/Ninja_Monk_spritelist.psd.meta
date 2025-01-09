@@ -1,0 +1,1842 @@
+fileFormatVersion: 2
+guid: 30132108b36edd44f8f34ed909124082
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1527961922990091156
+    second: Ninja_Monk_spritelist_0
+  - first:
+      213: 4026880191713675074
+    second: Ninja_Monk_spritelist_1
+  - first:
+      213: 8182785845198130219
+    second: Ninja_Monk_spritelist_2
+  - first:
+      213: 6590654528675102758
+    second: Ninja_Monk_spritelist_3
+  - first:
+      213: 599678520797557898
+    second: Ninja_Monk_spritelist_4
+  - first:
+      213: -1437069538384853041
+    second: Ninja_Monk_spritelist_5
+  - first:
+      213: -4542547891484745960
+    second: Ninja_Monk_spritelist_6
+  - first:
+      213: -8493939043818181499
+    second: Ninja_Monk_spritelist_7
+  - first:
+      213: -5374873027500864641
+    second: Ninja_Monk_spritelist_8
+  - first:
+      213: -1598136366989288406
+    second: Ninja_Monk_spritelist_9
+  - first:
+      213: 2299208966458316039
+    second: Ninja_Monk_spritelist_10
+  - first:
+      213: 2296085709760227586
+    second: Ninja_Monk_spritelist_11
+  - first:
+      213: 998425998767022195
+    second: Ninja_Monk_spritelist_12
+  - first:
+      213: -4317868390681648330
+    second: Ninja_Monk_spritelist_13
+  - first:
+      213: 8061098922856256065
+    second: Ninja_Monk_spritelist_14
+  - first:
+      213: 1957258477312913814
+    second: Ninja_Monk_spritelist_15
+  - first:
+      213: -5935983824822980084
+    second: Ninja_Monk_spritelist_16
+  - first:
+      213: -802885935302344939
+    second: Ninja_Monk_spritelist_17
+  - first:
+      213: -8342922590890498382
+    second: Ninja_Monk_spritelist_18
+  - first:
+      213: -5597871918088906470
+    second: Ninja_Monk_spritelist_19
+  - first:
+      213: -6530851595909713983
+    second: Ninja_Monk_spritelist_20
+  - first:
+      213: 7388780646491051299
+    second: Ninja_Monk_spritelist_21
+  - first:
+      213: -5116980031028952596
+    second: Ninja_Monk_spritelist_22
+  - first:
+      213: 8798437360140692692
+    second: Ninja_Monk_spritelist_23
+  - first:
+      213: 8382551719423088921
+    second: Ninja_Monk_spritelist_24
+  - first:
+      213: 4972548697637216095
+    second: Ninja_Monk_spritelist_25
+  - first:
+      213: 2226455456539818755
+    second: Ninja_Monk_spritelist_26
+  - first:
+      213: -1167271350105583265
+    second: Ninja_Monk_spritelist_27
+  - first:
+      213: -5765978896911977625
+    second: Ninja_Monk_spritelist_28
+  - first:
+      213: -3675109010747118936
+    second: Ninja_Monk_spritelist_29
+  - first:
+      213: 7228141408409431607
+    second: Ninja_Monk_spritelist_30
+  - first:
+      213: 6389098184808372999
+    second: Ninja_Monk_spritelist_31
+  - first:
+      213: -8885089650549351279
+    second: Ninja_Monk_spritelist_32
+  - first:
+      213: -5043439246455971486
+    second: Ninja_Monk_spritelist_33
+  - first:
+      213: 5052158800903980968
+    second: Ninja_Monk_spritelist_34
+  - first:
+      213: 4518126671852199214
+    second: Ninja_Monk_spritelist_35
+  - first:
+      213: 2214859598220252348
+    second: Ninja_Monk_spritelist_36
+  - first:
+      213: 6536412611665978194
+    second: Ninja_Monk_spritelist_37
+  - first:
+      213: 8563499799289207237
+    second: Ninja_Monk_spritelist_38
+  - first:
+      213: 7454739882458365874
+    second: Ninja_Monk_spritelist_39
+  - first:
+      213: 4469747673834551485
+    second: Ninja_Monk_spritelist_40
+  - first:
+      213: -2187787285904344607
+    second: Ninja_Monk_spritelist_41
+  - first:
+      213: 6117155997559441807
+    second: Ninja_Monk_spritelist_42
+  - first:
+      213: -8704631015708522705
+    second: Ninja_Monk_spritelist_43
+  - first:
+      213: 773046621936755433
+    second: Ninja_Monk_spritelist_44
+  - first:
+      213: 4085298484316288937
+    second: Ninja_Monk_spritelist_45
+  - first:
+      213: 1123432315267618695
+    second: Ninja_Monk_spritelist_46
+  - first:
+      213: -4126844716346507718
+    second: Ninja_Monk_spritelist_47
+  - first:
+      213: -9200670539022620526
+    second: Ninja_Monk_spritelist_48
+  - first:
+      213: 5316384557961621648
+    second: Ninja_Monk_spritelist_49
+  - first:
+      213: -1595554470659016816
+    second: Ninja_Monk_spritelist_50
+  - first:
+      213: 4690786938833660986
+    second: Ninja_Monk_spritelist_51
+  - first:
+      213: -7770990391218098518
+    second: Ninja_Monk_spritelist_52
+  - first:
+      213: -2841890842137643272
+    second: Ninja_Monk_spritelist_53
+  - first:
+      213: 7657530653339765160
+    second: Ninja_Monk_spritelist_54
+  - first:
+      213: 1871911477450547599
+    second: Ninja_Monk_spritelist_55
+  - first:
+      213: 3347998255994307448
+    second: Ninja_Monk_spritelist_56
+  - first:
+      213: 5600838419561782724
+    second: Ninja_Monk_spritelist_57
+  - first:
+      213: -2562584898782872201
+    second: Ninja_Monk_spritelist_58
+  - first:
+      213: 5680691493240523907
+    second: Ninja_Monk_spritelist_59
+  - first:
+      213: 1866135564845910548
+    second: Ninja_Monk_spritelist_60
+  - first:
+      213: -6572040915052806907
+    second: Ninja_Monk_spritelist_61
+  - first:
+      213: 3392492327806370263
+    second: Ninja_Monk_spritelist_62
+  - first:
+      213: -8877718464474352126
+    second: Ninja_Monk_spritelist_63
+  - first:
+      213: -838366319740448208
+    second: Ninja_Monk_spritelist_64
+  - first:
+      213: 4812869519430636167
+    second: Ninja_Monk_spritelist_65
+  - first:
+      213: 1416954323138343324
+    second: Ninja_Monk_spritelist_66
+  - first:
+      213: -6869565418988914428
+    second: Ninja_Monk_spritelist_67
+  - first:
+      213: 3208426680363314275
+    second: Ninja_Monk_spritelist_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 863
+        width: 36
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c645addf9b69bcae0800000000000000
+      internalID: -1527961922990091156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 863
+        width: 37
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2478624f23a52e730800000000000000
+      internalID: 4026880191713675074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 863
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c01283f581f8170800000000000000
+      internalID: 8182785845198130219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 863
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620cff20065b67b50800000000000000
+      internalID: 6590654528675102758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_4
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 863
+        width: 37
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84f19bff6c725800800000000000000
+      internalID: 599678520797557898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_5
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 863
+        width: 37
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc749076ed08e0ce0800000000000000
+      internalID: -1437069538384853041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_6
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 863
+        width: 36
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f1ad892c0a5f0c0800000000000000
+      internalID: -4542547891484745960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 767
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c656541777f1a80800000000000000
+      internalID: -8493939043818181499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 767
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b8bf2757d9865b0800000000000000
+      internalID: -5374873027500864641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_9
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 767
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c58f6017742d9e0800000000000000
+      internalID: -1598136366989288406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_10
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 767
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705142e8f5e68ef10800000000000000
+      internalID: 2299208966458316039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_11
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 767
+        width: 26
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209eb10b9c55ddf10800000000000000
+      internalID: 2296085709760227586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_12
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 767
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370e50fe72f1bdd00800000000000000
+      internalID: 998425998767022195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_13
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 767
+        width: 35
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63368826399d314c0800000000000000
+      internalID: -4317868390681648330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 671
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1429124c2c6cedf60800000000000000
+      internalID: 8061098922856256065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 671
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691bbd11734992b10800000000000000
+      internalID: 1957258477312913814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 676
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0236f859262f9da0800000000000000
+      internalID: -5935983824822980084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_17
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 671
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f7527ee739bd4f0800000000000000
+      internalID: -802885935302344939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_18
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 671
+        width: 78
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6e3653b1cf73c80800000000000000
+      internalID: -8342922590890498382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_19
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 671
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a191d28362d5052b0800000000000000
+      internalID: -5597871918088906470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_20
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 671
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf22015311cd55a0800000000000000
+      internalID: -6530851595909713983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_21
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 671
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325516db9d83a8660800000000000000
+      internalID: 7388780646491051299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_22
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 575
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce180cfc5c5dcf8b0800000000000000
+      internalID: -5116980031028952596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_23
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 575
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc26b5b9245a1a70800000000000000
+      internalID: 8798437360140692692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_24
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 575
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9199d8b406ec45470800000000000000
+      internalID: 8382551719423088921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_25
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 615
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f5ffed1ba020540800000000000000
+      internalID: 4972548697637216095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_26
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 613
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b39430175f5ee10800000000000000
+      internalID: 2226455456539818755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_27
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 608
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51577c34e40dcfe0800000000000000
+      internalID: -1167271350105583265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_28
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 575
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763b9232eb02bffa0800000000000000
+      internalID: -5765978896911977625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_29
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 575
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aaa49783d36ffcc0800000000000000
+      internalID: -3675109010747118936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e298a80548f4460800000000000000
+      internalID: 7228141408409431607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_31
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 479
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b989cb2f2aaa850800000000000000
+      internalID: 6389098184808372999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_32
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 479
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c918db902d1b480800000000000000
+      internalID: -8885089650549351279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_33
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 479
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2616ab40aba120ab0800000000000000
+      internalID: -5043439246455971486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_34
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 519
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7ceb479afdc1640800000000000000
+      internalID: 5052158800903980968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_35
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 512
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dd7fd154c93be30800000000000000
+      internalID: 4518126671852199214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_36
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 479
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4584bd113ccbe10800000000000000
+      internalID: 2214859598220252348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_37
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 383
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253ebbf83a006ba50800000000000000
+      internalID: 6536412611665978194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_38
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 383
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c913c232b9a7d670800000000000000
+      internalID: 8563499799289207237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 383
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf3eda1d6e847760800000000000000
+      internalID: 7454739882458365874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_40
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 383
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8798ed3dbb70e30800000000000000
+      internalID: 4469747673834551485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_41
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 383
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e93e8b0e0b63a1e0800000000000000
+      internalID: -2187787285904344607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_42
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 440
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f894e2e38f084e450800000000000000
+      internalID: 6117155997559441807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_43
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 440
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2788d7d530f23780800000000000000
+      internalID: -8704631015708522705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_44
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 439
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e22b5f8ec96aba00800000000000000
+      internalID: 773046621936755433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_45
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 287
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a73d1f9355e1b830800000000000000
+      internalID: 4085298484316288937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_46
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 287
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78798b01dbb379f00800000000000000
+      internalID: 1123432315267618695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_47
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 291
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ef7fe68908ab6c0800000000000000
+      internalID: -4126844716346507718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_48
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 309
+        width: 73
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298a72a54e6a05080800000000000000
+      internalID: -9200670539022620526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_49
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 307
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090bcaa869797c940800000000000000
+      internalID: 5316384557961621648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_50
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 296
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097359c99a37bd9e0800000000000000
+      internalID: -1595554470659016816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_51
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 296
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ce8363ed5091140800000000000000
+      internalID: 4690786938833660986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_52
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 287
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaea8726965e72490800000000000000
+      internalID: -7770990391218098518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_53
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 287
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f633f706539f88d0800000000000000
+      internalID: -2841890842137643272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_54
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 191
+        width: 30
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a94bf0de83054a60800000000000000
+      internalID: 7657530653339765160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_55
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 191
+        width: 35
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81aa68229d5af910800000000000000
+      internalID: 1871911477450547599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_56
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 191
+        width: 35
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8730b25ecaa767e20800000000000000
+      internalID: 3347998255994307448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_57
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 191
+        width: 35
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd175a3edc2abd40800000000000000
+      internalID: 5600838419561782724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_58
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 191
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d34499c9edf6cd0800000000000000
+      internalID: -2562584898782872201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_59
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 191
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c4f25c0ded5de40800000000000000
+      internalID: 5680691493240523907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_60
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 95
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a0d55b868d5e910800000000000000
+      internalID: 1866135564845910548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_61
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 95
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50db1f0ab9b6bc4a0800000000000000
+      internalID: -6572040915052806907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_62
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 95
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d103264ccd841f20800000000000000
+      internalID: 3392492327806370263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_63
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 95
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206741db7120cc480800000000000000
+      internalID: -8877718464474352126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_64
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032183826468d54f0800000000000000
+      internalID: -838366319740448208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_65
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782d7f7045fbac240800000000000000
+      internalID: 4812869519430636167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_66
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c917d9513780aa310800000000000000
+      internalID: 1416954323138343324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_67
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409bbdfd5a66aa0a0800000000000000
+      internalID: -6869565418988914428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Monk_spritelist_68
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 0
+        width: 79
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ce0fa111f968c20800000000000000
+      internalID: 3208426680363314275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

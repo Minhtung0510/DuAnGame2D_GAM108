@@ -1,0 +1,1842 @@
+fileFormatVersion: 2
+guid: 002f9a14ed76fdc4580325cd6a365219
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7332383359769319893
+    second: Yamabushi_tengu_Spritelist_0
+  - first:
+      213: 342393371365302874
+    second: Yamabushi_tengu_Spritelist_1
+  - first:
+      213: -3285041377256985763
+    second: Yamabushi_tengu_Spritelist_2
+  - first:
+      213: 8137235836956146159
+    second: Yamabushi_tengu_Spritelist_3
+  - first:
+      213: -1367016256342252938
+    second: Yamabushi_tengu_Spritelist_4
+  - first:
+      213: -769717005011077362
+    second: Yamabushi_tengu_Spritelist_5
+  - first:
+      213: 83906164162626763
+    second: Yamabushi_tengu_Spritelist_6
+  - first:
+      213: 6978519484703645721
+    second: Yamabushi_tengu_Spritelist_7
+  - first:
+      213: -34312914543536219
+    second: Yamabushi_tengu_Spritelist_8
+  - first:
+      213: -1755302161928651768
+    second: Yamabushi_tengu_Spritelist_9
+  - first:
+      213: 7140922330180912572
+    second: Yamabushi_tengu_Spritelist_10
+  - first:
+      213: 2802543606705339163
+    second: Yamabushi_tengu_Spritelist_11
+  - first:
+      213: -4470074833123853310
+    second: Yamabushi_tengu_Spritelist_12
+  - first:
+      213: 9055622735051812983
+    second: Yamabushi_tengu_Spritelist_13
+  - first:
+      213: 5057733672455052752
+    second: Yamabushi_tengu_Spritelist_14
+  - first:
+      213: 831664669906737359
+    second: Yamabushi_tengu_Spritelist_15
+  - first:
+      213: 8480606816892727353
+    second: Yamabushi_tengu_Spritelist_16
+  - first:
+      213: 3255127320105473998
+    second: Yamabushi_tengu_Spritelist_17
+  - first:
+      213: 4931082516765175696
+    second: Yamabushi_tengu_Spritelist_18
+  - first:
+      213: 4019473855226825406
+    second: Yamabushi_tengu_Spritelist_19
+  - first:
+      213: 1304423970254551607
+    second: Yamabushi_tengu_Spritelist_20
+  - first:
+      213: -6784759801828117171
+    second: Yamabushi_tengu_Spritelist_21
+  - first:
+      213: 3866554665543979408
+    second: Yamabushi_tengu_Spritelist_22
+  - first:
+      213: -7134479593851542209
+    second: Yamabushi_tengu_Spritelist_23
+  - first:
+      213: 5994514677285081137
+    second: Yamabushi_tengu_Spritelist_24
+  - first:
+      213: 7396357793300637777
+    second: Yamabushi_tengu_Spritelist_25
+  - first:
+      213: 2743050041411194002
+    second: Yamabushi_tengu_Spritelist_26
+  - first:
+      213: -6370603317620124114
+    second: Yamabushi_tengu_Spritelist_27
+  - first:
+      213: 6061697217811077720
+    second: Yamabushi_tengu_Spritelist_28
+  - first:
+      213: -4562983992124493855
+    second: Yamabushi_tengu_Spritelist_29
+  - first:
+      213: -5684391934292836231
+    second: Yamabushi_tengu_Spritelist_30
+  - first:
+      213: -8733904376768662423
+    second: Yamabushi_tengu_Spritelist_31
+  - first:
+      213: 355357971576239973
+    second: Yamabushi_tengu_Spritelist_32
+  - first:
+      213: 5631872897432980446
+    second: Yamabushi_tengu_Spritelist_33
+  - first:
+      213: -7864425163520784952
+    second: Yamabushi_tengu_Spritelist_34
+  - first:
+      213: 3292181278194644232
+    second: Yamabushi_tengu_Spritelist_35
+  - first:
+      213: -1952967161447313164
+    second: Yamabushi_tengu_Spritelist_36
+  - first:
+      213: 6866205439122130081
+    second: Yamabushi_tengu_Spritelist_37
+  - first:
+      213: -7080619674843941511
+    second: Yamabushi_tengu_Spritelist_38
+  - first:
+      213: 94378494476469629
+    second: Yamabushi_tengu_Spritelist_39
+  - first:
+      213: 4376276232309884780
+    second: Yamabushi_tengu_Spritelist_40
+  - first:
+      213: -5032902157249614304
+    second: Yamabushi_tengu_Spritelist_41
+  - first:
+      213: -4845737601283015358
+    second: Yamabushi_tengu_Spritelist_42
+  - first:
+      213: -8776731192970083136
+    second: Yamabushi_tengu_Spritelist_43
+  - first:
+      213: 1663077265778441535
+    second: Yamabushi_tengu_Spritelist_44
+  - first:
+      213: -2180153990649273512
+    second: Yamabushi_tengu_Spritelist_45
+  - first:
+      213: 865869186775382316
+    second: Yamabushi_tengu_Spritelist_46
+  - first:
+      213: -6415660716663920567
+    second: Yamabushi_tengu_Spritelist_47
+  - first:
+      213: -3330889015873438688
+    second: Yamabushi_tengu_Spritelist_48
+  - first:
+      213: -6970990381299670622
+    second: Yamabushi_tengu_Spritelist_49
+  - first:
+      213: -7582522555616565671
+    second: Yamabushi_tengu_Spritelist_50
+  - first:
+      213: 4047309861607090760
+    second: Yamabushi_tengu_Spritelist_51
+  - first:
+      213: -7991826859381630113
+    second: Yamabushi_tengu_Spritelist_52
+  - first:
+      213: 7306751454516560906
+    second: Yamabushi_tengu_Spritelist_53
+  - first:
+      213: 5522226985194204690
+    second: Yamabushi_tengu_Spritelist_54
+  - first:
+      213: 9180257809714464318
+    second: Yamabushi_tengu_Spritelist_55
+  - first:
+      213: -5007820345246133451
+    second: Yamabushi_tengu_Spritelist_56
+  - first:
+      213: -6466374361898766105
+    second: Yamabushi_tengu_Spritelist_57
+  - first:
+      213: 201826450662338518
+    second: Yamabushi_tengu_Spritelist_58
+  - first:
+      213: 75424210621237162
+    second: Yamabushi_tengu_Spritelist_59
+  - first:
+      213: -381035100890042090
+    second: Yamabushi_tengu_Spritelist_60
+  - first:
+      213: 8352686932390844006
+    second: Yamabushi_tengu_Spritelist_61
+  - first:
+      213: 3465852154765917777
+    second: Yamabushi_tengu_Spritelist_62
+  - first:
+      213: 740324876919805623
+    second: Yamabushi_tengu_Spritelist_63
+  - first:
+      213: 4817412099709789511
+    second: Yamabushi_tengu_Spritelist_64
+  - first:
+      213: 6524181222039311096
+    second: Yamabushi_tengu_Spritelist_65
+  - first:
+      213: -2074531469916256146
+    second: Yamabushi_tengu_Spritelist_66
+  - first:
+      213: 2794377384816138306
+    second: Yamabushi_tengu_Spritelist_67
+  - first:
+      213: 8010661520645968189
+    second: Yamabushi_tengu_Spritelist_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1153
+        width: 76
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9190c21dbd1c560800000000000000
+      internalID: 7332383359769319893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1153
+        width: 77
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a526da905fc60c400800000000000000
+      internalID: 342393371365302874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_2
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1153
+        width: 78
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b2324b5403962d0800000000000000
+      internalID: -3285041377256985763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_3
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1153
+        width: 79
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9795b71e44de070800000000000000
+      internalID: 8137235836956146159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_4
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1153
+        width: 78
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672298625f1670de0800000000000000
+      internalID: -1367016256342252938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_5
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1153
+        width: 77
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07bcba467a6155f0800000000000000
+      internalID: -769717005011077362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1023
+        width: 57
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4016536381a2100800000000000000
+      internalID: 83906164162626763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1023
+        width: 59
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91027ef5f7ea8d060800000000000000
+      internalID: 6978519484703645721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_8
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1023
+        width: 67
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a79c650698168ff0800000000000000
+      internalID: -34312914543536219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_9
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1023
+        width: 72
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c74c4dbf9e3a7e0800000000000000
+      internalID: -1755302161928651768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_10
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1023
+        width: 62
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5861b6607a91360800000000000000
+      internalID: 7140922330180912572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_11
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1023
+        width: 60
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bb631df82a4e620800000000000000
+      internalID: 2802543606705339163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_12
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1023
+        width: 66
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c3d3c6f9a17f1c0800000000000000
+      internalID: -4470074833123853310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_13
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1023
+        width: 72
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770f6b616e80cad70800000000000000
+      internalID: 9055622735051812983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 895
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd17336afda03640800000000000000
+      internalID: 5057733672455052752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_15
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 895
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc898066c9aaa8b00800000000000000
+      internalID: 831664669906737359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_16
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 895
+        width: 87
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930b5a0c7fa21b570800000000000000
+      internalID: 8480606816892727353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_17
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 895
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec75e8d1d098c2d20800000000000000
+      internalID: 3255127320105473998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_18
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 895
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f6de94c69be6440800000000000000
+      internalID: 4931082516765175696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_19
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 895
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebac3ccdc2a08c730800000000000000
+      internalID: 4019473855226825406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_20
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 895
+        width: 87
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73af68790be3a1210800000000000000
+      internalID: 1304423970254551607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_21
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 895
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d457fad48e0b7d1a0800000000000000
+      internalID: -6784759801828117171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 767
+        width: 98
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091d0608bf2c8a530800000000000000
+      internalID: 3866554665543979408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_23
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 767
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35a4370c9c3dfc90800000000000000
+      internalID: -7134479593851542209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_24
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 767
+        width: 80
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1305174b65bc03350800000000000000
+      internalID: 5994514677285081137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_25
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 767
+        width: 84
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1586065b93425a660800000000000000
+      internalID: 7396357793300637777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_26
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 767
+        width: 86
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c4f67ba75411620800000000000000
+      internalID: 2743050041411194002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_27
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 769
+        width: 97
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26d35819021797a0800000000000000
+      internalID: -6370603317620124114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_28
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 774
+        width: 68
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a5a9bd0897f1450800000000000000
+      internalID: 6061697217811077720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_29
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 769
+        width: 58
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef20a12c360da0c0800000000000000
+      internalID: -4562983992124493855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_30
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 769
+        width: 83
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970416827abfc11b0800000000000000
+      internalID: -5684391934292836231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_31
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 780
+        width: 73
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96479785e30fac680800000000000000
+      internalID: -8733904376768662423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_32
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 775
+        width: 68
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567b7ef313c7ee400800000000000000
+      internalID: 355357971576239973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_33
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 774
+        width: 77
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb84afaf8e682e40800000000000000
+      internalID: 5631872897432980446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_34
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 771
+        width: 90
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c543b53bf2fbd290800000000000000
+      internalID: -7864425163520784952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_35
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 767
+        width: 94
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805bbf60e6d20bd20800000000000000
+      internalID: 3292181278194644232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_36
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 767
+        width: 95
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f01ee3c6baa5e4e0800000000000000
+      internalID: -1952967161447313164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_37
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 639
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4cab9d779a94f50800000000000000
+      internalID: 6866205439122130081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_38
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 639
+        width: 79
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975f843abe59cbd90800000000000000
+      internalID: -7080619674843941511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 673
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75c4bd9dbc4f4100800000000000000
+      internalID: 94378494476469629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_40
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 668
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67c0d9fb08abbc30800000000000000
+      internalID: 4376276232309884780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_41
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 639
+        width: 79
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ee6d7472a872ab0800000000000000
+      internalID: -5032902157249614304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 511
+        width: 77
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24db5c0535b70ccb0800000000000000
+      internalID: -4845737601283015358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_43
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 511
+        width: 77
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c48de92b79c23680800000000000000
+      internalID: -8776731192970083136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_44
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 511
+        width: 77
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d70cc36ff641710800000000000000
+      internalID: 1663077265778441535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_45
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 511
+        width: 83
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85323b71f798eb1e0800000000000000
+      internalID: -2180153990649273512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_46
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 511
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29f3b3107f240c00800000000000000
+      internalID: 865869186775382316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_47
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 551
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948a1dfd19ef6f6a0800000000000000
+      internalID: -6415660716663920567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_48
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 544
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cfc9e761e46c1d0800000000000000
+      internalID: -3330889015873438688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_49
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 511
+        width: 79
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1e7fd9e21124f90800000000000000
+      internalID: -6970990381299670622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 383
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956661bd8e775c690800000000000000
+      internalID: -7582522555616565671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_51
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 383
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84aa60520eeea2830800000000000000
+      internalID: 4047309861607090760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_52
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 383
+        width: 81
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5bd12c50d3571190800000000000000
+      internalID: -7991826859381630113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_53
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 424
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04478c2cbbc66560800000000000000
+      internalID: 7306751454516560906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_54
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 383
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ea39d5f24e2ac40800000000000000
+      internalID: 5522226985194204690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_55
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 255
+        width: 76
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36498eb6d3d66f70800000000000000
+      internalID: 9180257809714464318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_56
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 255
+        width: 76
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53351a6bde5a08ab0800000000000000
+      internalID: -5007820345246133451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_57
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 255
+        width: 76
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0b45637c2d246a0800000000000000
+      internalID: -6466374361898766105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_58
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 255
+        width: 76
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfa10a66180dc200800000000000000
+      internalID: 201826450662338518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_59
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 255
+        width: 76
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa70b818be5fb0100800000000000000
+      internalID: 75424210621237162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_60
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 127
+        width: 76
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6117e74389a46baf0800000000000000
+      internalID: -381035100890042090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_61
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 127
+        width: 77
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6661435b284bae370800000000000000
+      internalID: 8352686932390844006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_62
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 127
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e38d00c2e291030800000000000000
+      internalID: 3465852154765917777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_63
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6903b9d89264a00800000000000000
+      internalID: 740324876919805623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_64
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745eedbe7c2ead240800000000000000
+      internalID: 4817412099709789511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_65
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 92
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f25ded314c8a8a50800000000000000
+      internalID: 6524181222039311096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_66
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 89
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68c5449e98c533e0800000000000000
+      internalID: -2074531469916256146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_67
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 94
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248d95e1d6f97c620800000000000000
+      internalID: 2794377384816138306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamabushi_tengu_Spritelist_68
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 0
+        width: 92
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d315ef1f5369b2f60800000000000000
+      internalID: 8010661520645968189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
