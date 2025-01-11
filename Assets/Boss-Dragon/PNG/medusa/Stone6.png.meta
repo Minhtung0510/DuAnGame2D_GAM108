@@ -156,6 +156,45 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -634,7 +673,28 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Stone6_0: -3851723516642818330
+      Stone6_1: -2623441842509063213
+      Stone6_10: -1951700003816668996
+      Stone6_11: -4720302709623965031
+      Stone6_12: -3305630207109154401
+      Stone6_13: -179739440256098323
+      Stone6_14: 1526286051262734058
+      Stone6_15: 1512354247396586755
+      Stone6_16: 6313385235869843495
+      Stone6_17: -6109294177571304290
+      Stone6_18: 156576622154097872
+      Stone6_19: 1147387068167101769
+      Stone6_2: 7909400620441855084
+      Stone6_20: 563580862319194728
+      Stone6_3: 4014853703451029996
+      Stone6_4: 1827487938995653140
+      Stone6_5: 1707797229638688960
+      Stone6_6: -6470488213584787443
+      Stone6_7: -965505237197531692
+      Stone6_8: 9108623808099816010
+      Stone6_9: -8752852775889518493
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

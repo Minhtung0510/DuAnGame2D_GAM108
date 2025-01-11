@@ -273,6 +273,45 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1609,7 +1648,67 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ninja_Peasant_spritelist_0: 6425835268807553442
+      Ninja_Peasant_spritelist_1: 5294223234941975643
+      Ninja_Peasant_spritelist_10: 8324487895486240957
+      Ninja_Peasant_spritelist_11: -3814210265446300421
+      Ninja_Peasant_spritelist_12: 4010720994821295835
+      Ninja_Peasant_spritelist_13: -5531099870397263515
+      Ninja_Peasant_spritelist_14: -2156499985499711793
+      Ninja_Peasant_spritelist_15: 839274276328808078
+      Ninja_Peasant_spritelist_16: 794895925876120966
+      Ninja_Peasant_spritelist_17: -1102280777098895820
+      Ninja_Peasant_spritelist_18: 601710925185923043
+      Ninja_Peasant_spritelist_19: 2115206001764126770
+      Ninja_Peasant_spritelist_2: 4089426612339314580
+      Ninja_Peasant_spritelist_20: 592154105391793117
+      Ninja_Peasant_spritelist_21: 7019099508678163495
+      Ninja_Peasant_spritelist_22: -1631065494594406420
+      Ninja_Peasant_spritelist_23: 3207374217418485994
+      Ninja_Peasant_spritelist_24: 3976844641333922457
+      Ninja_Peasant_spritelist_25: -4141683816848725466
+      Ninja_Peasant_spritelist_26: -8941390646986153255
+      Ninja_Peasant_spritelist_27: -6729676417443810648
+      Ninja_Peasant_spritelist_28: 4427764356202186993
+      Ninja_Peasant_spritelist_29: 2012758837342584471
+      Ninja_Peasant_spritelist_3: -5721716100737995826
+      Ninja_Peasant_spritelist_30: -2286842899306939405
+      Ninja_Peasant_spritelist_31: 5774844363007011453
+      Ninja_Peasant_spritelist_32: -5249556003543184381
+      Ninja_Peasant_spritelist_33: -6174984569393881804
+      Ninja_Peasant_spritelist_34: 5297886240368707761
+      Ninja_Peasant_spritelist_35: 2678127811658089979
+      Ninja_Peasant_spritelist_36: 5142335957335154067
+      Ninja_Peasant_spritelist_37: -8851465853574466117
+      Ninja_Peasant_spritelist_38: 4892386788573371445
+      Ninja_Peasant_spritelist_39: 3426487417707245009
+      Ninja_Peasant_spritelist_4: 1826263677077626633
+      Ninja_Peasant_spritelist_40: -9078093054043188010
+      Ninja_Peasant_spritelist_41: -1758769259092326007
+      Ninja_Peasant_spritelist_42: 1973389635791238907
+      Ninja_Peasant_spritelist_43: -2604815640326101917
+      Ninja_Peasant_spritelist_44: -4322161621257511117
+      Ninja_Peasant_spritelist_45: -4463228815954466389
+      Ninja_Peasant_spritelist_46: -8493041634075310748
+      Ninja_Peasant_spritelist_47: 2222096196123511347
+      Ninja_Peasant_spritelist_48: -7605944589693506949
+      Ninja_Peasant_spritelist_49: 5482783944648785419
+      Ninja_Peasant_spritelist_5: -1231392274692329677
+      Ninja_Peasant_spritelist_50: -7177386650183126362
+      Ninja_Peasant_spritelist_51: -7230175990394522266
+      Ninja_Peasant_spritelist_52: -2199352129016084268
+      Ninja_Peasant_spritelist_53: 790169560820132659
+      Ninja_Peasant_spritelist_54: -3943616832591285521
+      Ninja_Peasant_spritelist_55: -6691467293627320873
+      Ninja_Peasant_spritelist_56: -6537405913358978982
+      Ninja_Peasant_spritelist_57: -9057308015789673885
+      Ninja_Peasant_spritelist_58: 4313837067902517779
+      Ninja_Peasant_spritelist_59: -3992958950693429065
+      Ninja_Peasant_spritelist_6: 4489373847726084660
+      Ninja_Peasant_spritelist_7: -7224034886635716540
+      Ninja_Peasant_spritelist_8: -2083578910977191505
+      Ninja_Peasant_spritelist_9: 2114364582634330790
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

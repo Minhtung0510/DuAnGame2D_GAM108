@@ -330,6 +330,45 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2084,7 +2123,86 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Gargona_3_Spritelist_0: -8702665331352862551
+      Gargona_3_Spritelist_1: -1669934243548219842
+      Gargona_3_Spritelist_10: 4638577392383955782
+      Gargona_3_Spritelist_11: -1644902200579112537
+      Gargona_3_Spritelist_12: 5529567747226585788
+      Gargona_3_Spritelist_13: -8824325556943862063
+      Gargona_3_Spritelist_14: -8428008683404953603
+      Gargona_3_Spritelist_15: -4120440698625803500
+      Gargona_3_Spritelist_16: 268916073112399699
+      Gargona_3_Spritelist_17: 8912616050083306548
+      Gargona_3_Spritelist_18: -5616292773281307912
+      Gargona_3_Spritelist_19: -8715038983026505669
+      Gargona_3_Spritelist_2: 6479213166505545384
+      Gargona_3_Spritelist_20: 6198698277133997305
+      Gargona_3_Spritelist_21: -7963762016261268690
+      Gargona_3_Spritelist_22: 5729093629838274856
+      Gargona_3_Spritelist_23: 1363542123560377276
+      Gargona_3_Spritelist_24: 7624535760856131601
+      Gargona_3_Spritelist_25: -3407098356769057445
+      Gargona_3_Spritelist_26: -1989134853875663739
+      Gargona_3_Spritelist_27: 7478058162376755945
+      Gargona_3_Spritelist_28: -4534263623885508229
+      Gargona_3_Spritelist_29: 3631851141624564601
+      Gargona_3_Spritelist_3: 6471332166485706430
+      Gargona_3_Spritelist_30: 1288972381022174858
+      Gargona_3_Spritelist_31: 2258675496792808229
+      Gargona_3_Spritelist_32: 9115325801304888839
+      Gargona_3_Spritelist_33: 3508276200681589039
+      Gargona_3_Spritelist_34: 7512831645227905698
+      Gargona_3_Spritelist_35: 8951999764087866511
+      Gargona_3_Spritelist_36: -441442651977625436
+      Gargona_3_Spritelist_37: -5352639731374306201
+      Gargona_3_Spritelist_38: -4728300775502683752
+      Gargona_3_Spritelist_39: 6830330069680919109
+      Gargona_3_Spritelist_4: -2073755262257485227
+      Gargona_3_Spritelist_40: 144984353891641066
+      Gargona_3_Spritelist_41: 8001250852141137606
+      Gargona_3_Spritelist_42: -1369885001289992192
+      Gargona_3_Spritelist_43: 5687140618518710762
+      Gargona_3_Spritelist_44: 3670973655792223563
+      Gargona_3_Spritelist_45: -5577069584751418949
+      Gargona_3_Spritelist_46: 6468437829838723913
+      Gargona_3_Spritelist_47: -4278399343361737980
+      Gargona_3_Spritelist_48: 6781001926766458186
+      Gargona_3_Spritelist_49: 7822716014859234580
+      Gargona_3_Spritelist_5: 446452343481806156
+      Gargona_3_Spritelist_50: -4504298686925724995
+      Gargona_3_Spritelist_51: 3403759904711563808
+      Gargona_3_Spritelist_52: 2486845423925453255
+      Gargona_3_Spritelist_53: -7671902871882724738
+      Gargona_3_Spritelist_54: 5945866556624443335
+      Gargona_3_Spritelist_55: -1506749216068116497
+      Gargona_3_Spritelist_56: -3391973468045198208
+      Gargona_3_Spritelist_57: -7234642759965132180
+      Gargona_3_Spritelist_58: 1985890488474605987
+      Gargona_3_Spritelist_59: 4209861549265445785
+      Gargona_3_Spritelist_6: -1367012559007935260
+      Gargona_3_Spritelist_60: 419060879506185175
+      Gargona_3_Spritelist_61: -1212477414597786346
+      Gargona_3_Spritelist_62: -7089556140715890503
+      Gargona_3_Spritelist_63: 873226267057572501
+      Gargona_3_Spritelist_64: -254608374220533742
+      Gargona_3_Spritelist_65: 4999756269767572392
+      Gargona_3_Spritelist_66: -3249025746685931905
+      Gargona_3_Spritelist_67: 7429491375328783307
+      Gargona_3_Spritelist_68: -4411034050915260244
+      Gargona_3_Spritelist_69: -6915748964978526280
+      Gargona_3_Spritelist_7: -5449034883440648074
+      Gargona_3_Spritelist_70: -4473754266887029570
+      Gargona_3_Spritelist_71: 5412300048457042350
+      Gargona_3_Spritelist_72: 2542490206963271184
+      Gargona_3_Spritelist_73: 3213188670836831104
+      Gargona_3_Spritelist_74: -4939886702624918838
+      Gargona_3_Spritelist_75: -5209709602086741566
+      Gargona_3_Spritelist_76: 5181279537930760888
+      Gargona_3_Spritelist_77: 633913292412117766
+      Gargona_3_Spritelist_78: -5362739748486951809
+      Gargona_3_Spritelist_8: 3093764551373048985
+      Gargona_3_Spritelist_9: -7761586819881393022
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

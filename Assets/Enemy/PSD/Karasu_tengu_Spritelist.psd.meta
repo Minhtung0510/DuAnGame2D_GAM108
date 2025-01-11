@@ -300,6 +300,45 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1834,7 +1873,76 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Karasu_tengu_Spritelist_0: 3433137302354148205
+      Karasu_tengu_Spritelist_1: -2423250338129145696
+      Karasu_tengu_Spritelist_10: -1542161090365673662
+      Karasu_tengu_Spritelist_11: 1689281223156939834
+      Karasu_tengu_Spritelist_12: -270785540407918597
+      Karasu_tengu_Spritelist_13: -3489978273554099478
+      Karasu_tengu_Spritelist_14: 2676503392058958583
+      Karasu_tengu_Spritelist_15: -670425847478024180
+      Karasu_tengu_Spritelist_16: 5772344172206795867
+      Karasu_tengu_Spritelist_17: -6138561354575911050
+      Karasu_tengu_Spritelist_18: -3448407200466177509
+      Karasu_tengu_Spritelist_19: -7147650544119202629
+      Karasu_tengu_Spritelist_2: 5859283949234883740
+      Karasu_tengu_Spritelist_20: 8764973790851712779
+      Karasu_tengu_Spritelist_21: 2608049652568206352
+      Karasu_tengu_Spritelist_22: -69744664831472736
+      Karasu_tengu_Spritelist_23: 8387860974396727501
+      Karasu_tengu_Spritelist_24: 7199039296713514568
+      Karasu_tengu_Spritelist_25: -3775350299454300593
+      Karasu_tengu_Spritelist_26: -6229216811099988543
+      Karasu_tengu_Spritelist_27: 6215580914638516604
+      Karasu_tengu_Spritelist_28: 6236060806647294954
+      Karasu_tengu_Spritelist_29: -3123997775363440046
+      Karasu_tengu_Spritelist_3: -5203444944740466359
+      Karasu_tengu_Spritelist_30: -8132784286645335078
+      Karasu_tengu_Spritelist_31: -5317071955413203064
+      Karasu_tengu_Spritelist_32: 4884424723016548869
+      Karasu_tengu_Spritelist_33: -5190114348771944591
+      Karasu_tengu_Spritelist_34: 1258670615986098694
+      Karasu_tengu_Spritelist_35: -151416516882612225
+      Karasu_tengu_Spritelist_36: 4728952116404159841
+      Karasu_tengu_Spritelist_37: 189964954746209254
+      Karasu_tengu_Spritelist_38: 2938832736351548927
+      Karasu_tengu_Spritelist_39: -5277739756391411823
+      Karasu_tengu_Spritelist_4: 2655685872732800016
+      Karasu_tengu_Spritelist_40: -4086547711470893293
+      Karasu_tengu_Spritelist_41: -7431652677902524
+      Karasu_tengu_Spritelist_42: -1054671623227071043
+      Karasu_tengu_Spritelist_43: -3923609085077324807
+      Karasu_tengu_Spritelist_44: -8836227262189028435
+      Karasu_tengu_Spritelist_45: -3003326479733556674
+      Karasu_tengu_Spritelist_46: 1105933253637255893
+      Karasu_tengu_Spritelist_47: -9202462424867940897
+      Karasu_tengu_Spritelist_48: 7306567939702868705
+      Karasu_tengu_Spritelist_49: 7591535657659736224
+      Karasu_tengu_Spritelist_5: -4064051888169155715
+      Karasu_tengu_Spritelist_50: -1722371798420007878
+      Karasu_tengu_Spritelist_51: 3157291398184795281
+      Karasu_tengu_Spritelist_52: -5940633371771038797
+      Karasu_tengu_Spritelist_53: -235773267474482782
+      Karasu_tengu_Spritelist_54: 8034050091772998921
+      Karasu_tengu_Spritelist_55: 3346919172287496145
+      Karasu_tengu_Spritelist_56: -5325674342804608751
+      Karasu_tengu_Spritelist_57: 3788307033859431544
+      Karasu_tengu_Spritelist_58: 1108075742450474894
+      Karasu_tengu_Spritelist_59: -7829026634940925680
+      Karasu_tengu_Spritelist_6: 4796884130679208337
+      Karasu_tengu_Spritelist_60: -2432438296873337980
+      Karasu_tengu_Spritelist_61: -3601386059963562745
+      Karasu_tengu_Spritelist_62: 6730399890135706389
+      Karasu_tengu_Spritelist_63: -1389586057537965464
+      Karasu_tengu_Spritelist_64: -2399226669142100940
+      Karasu_tengu_Spritelist_65: 7400693779599118611
+      Karasu_tengu_Spritelist_66: -1580401144966420857
+      Karasu_tengu_Spritelist_67: 4789787168980854902
+      Karasu_tengu_Spritelist_68: -8631984234328069945
+      Karasu_tengu_Spritelist_7: -684223545962208182
+      Karasu_tengu_Spritelist_8: 8767768683126114796
+      Karasu_tengu_Spritelist_9: -4762418655175101988
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

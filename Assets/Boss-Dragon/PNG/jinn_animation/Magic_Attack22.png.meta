@@ -150,6 +150,45 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -584,7 +623,26 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magic_Attack22_0: -1250922245774005926
+      Magic_Attack22_1: 9129755579409117756
+      Magic_Attack22_10: 6529409359702458370
+      Magic_Attack22_11: 8000727380200700760
+      Magic_Attack22_12: -8602561098754096331
+      Magic_Attack22_13: -8053071043331759050
+      Magic_Attack22_14: 9047569998204217397
+      Magic_Attack22_15: 6147091411166654001
+      Magic_Attack22_16: 5935151360054437185
+      Magic_Attack22_17: 5357705138058449275
+      Magic_Attack22_18: 1690798511434007385
+      Magic_Attack22_2: -7519570215363387530
+      Magic_Attack22_3: -4750293806459756907
+      Magic_Attack22_4: -6208629792582404175
+      Magic_Attack22_5: 5527873196077560595
+      Magic_Attack22_6: 3642015937939437359
+      Magic_Attack22_7: 8669537274429165605
+      Magic_Attack22_8: -1713146103797575598
+      Magic_Attack22_9: -7763505599071221783
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

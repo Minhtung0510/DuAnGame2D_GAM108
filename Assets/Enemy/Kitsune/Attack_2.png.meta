@@ -252,6 +252,45 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1434,7 +1473,60 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Attack_2_0: -837275676153275556
+      Attack_2_1: -8404040051688745268
+      Attack_2_10: 5209329338397614418
+      Attack_2_11: 4012195425282336765
+      Attack_2_12: 2600992114634951681
+      Attack_2_13: -8725597231840872714
+      Attack_2_14: -4924459620717495712
+      Attack_2_15: 7925495439992792029
+      Attack_2_16: -1802330756246623174
+      Attack_2_17: -6072116721435290336
+      Attack_2_18: -561157153352956436
+      Attack_2_19: -2622222293452798131
+      Attack_2_2: -3526194569594660169
+      Attack_2_20: 8835317473579532753
+      Attack_2_21: 6321163335750826390
+      Attack_2_22: -7927747871101511091
+      Attack_2_23: -8898172576548916272
+      Attack_2_24: 6905908897218321619
+      Attack_2_25: 8830069428459605061
+      Attack_2_26: 493562392191436621
+      Attack_2_27: -5262155885566887038
+      Attack_2_28: -8642483390443647202
+      Attack_2_29: 5779566709780335636
+      Attack_2_3: 950650993592285724
+      Attack_2_30: -6432969661850131043
+      Attack_2_31: 7672661190472310180
+      Attack_2_32: -65805475392142908
+      Attack_2_33: -3405881136031444166
+      Attack_2_34: 8519563464783529749
+      Attack_2_35: -4965883788652720146
+      Attack_2_36: -1954110746738649901
+      Attack_2_37: 1523165162957596724
+      Attack_2_38: 4762696394962687759
+      Attack_2_39: -2847411108699953658
+      Attack_2_4: 6371639423800154214
+      Attack_2_40: 3068980642367278521
+      Attack_2_41: -8833310735702557901
+      Attack_2_42: -4161933036682802489
+      Attack_2_43: -4634061964756385294
+      Attack_2_44: -4124016159048385954
+      Attack_2_45: 464514440525168932
+      Attack_2_46: 4492661716196339297
+      Attack_2_47: -9133838498495915986
+      Attack_2_48: -810843701940123205
+      Attack_2_49: 8886464281691372127
+      Attack_2_5: 3517966781153112992
+      Attack_2_50: 6544496297631396518
+      Attack_2_51: 7527882760037400929
+      Attack_2_52: -2452723877978979595
+      Attack_2_6: -7018801485362641992
+      Attack_2_7: -4083314108108747639
+      Attack_2_8: -3632019512452351888
+      Attack_2_9: 2466577473995442910
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

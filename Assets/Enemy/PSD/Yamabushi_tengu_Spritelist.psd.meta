@@ -300,6 +300,45 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1834,7 +1873,76 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Yamabushi_tengu_Spritelist_0: 7332383359769319893
+      Yamabushi_tengu_Spritelist_1: 342393371365302874
+      Yamabushi_tengu_Spritelist_10: 7140922330180912572
+      Yamabushi_tengu_Spritelist_11: 2802543606705339163
+      Yamabushi_tengu_Spritelist_12: -4470074833123853310
+      Yamabushi_tengu_Spritelist_13: 9055622735051812983
+      Yamabushi_tengu_Spritelist_14: 5057733672455052752
+      Yamabushi_tengu_Spritelist_15: 831664669906737359
+      Yamabushi_tengu_Spritelist_16: 8480606816892727353
+      Yamabushi_tengu_Spritelist_17: 3255127320105473998
+      Yamabushi_tengu_Spritelist_18: 4931082516765175696
+      Yamabushi_tengu_Spritelist_19: 4019473855226825406
+      Yamabushi_tengu_Spritelist_2: -3285041377256985763
+      Yamabushi_tengu_Spritelist_20: 1304423970254551607
+      Yamabushi_tengu_Spritelist_21: -6784759801828117171
+      Yamabushi_tengu_Spritelist_22: 3866554665543979408
+      Yamabushi_tengu_Spritelist_23: -7134479593851542209
+      Yamabushi_tengu_Spritelist_24: 5994514677285081137
+      Yamabushi_tengu_Spritelist_25: 7396357793300637777
+      Yamabushi_tengu_Spritelist_26: 2743050041411194002
+      Yamabushi_tengu_Spritelist_27: -6370603317620124114
+      Yamabushi_tengu_Spritelist_28: 6061697217811077720
+      Yamabushi_tengu_Spritelist_29: -4562983992124493855
+      Yamabushi_tengu_Spritelist_3: 8137235836956146159
+      Yamabushi_tengu_Spritelist_30: -5684391934292836231
+      Yamabushi_tengu_Spritelist_31: -8733904376768662423
+      Yamabushi_tengu_Spritelist_32: 355357971576239973
+      Yamabushi_tengu_Spritelist_33: 5631872897432980446
+      Yamabushi_tengu_Spritelist_34: -7864425163520784952
+      Yamabushi_tengu_Spritelist_35: 3292181278194644232
+      Yamabushi_tengu_Spritelist_36: -1952967161447313164
+      Yamabushi_tengu_Spritelist_37: 6866205439122130081
+      Yamabushi_tengu_Spritelist_38: -7080619674843941511
+      Yamabushi_tengu_Spritelist_39: 94378494476469629
+      Yamabushi_tengu_Spritelist_4: -1367016256342252938
+      Yamabushi_tengu_Spritelist_40: 4376276232309884780
+      Yamabushi_tengu_Spritelist_41: -5032902157249614304
+      Yamabushi_tengu_Spritelist_42: -4845737601283015358
+      Yamabushi_tengu_Spritelist_43: -8776731192970083136
+      Yamabushi_tengu_Spritelist_44: 1663077265778441535
+      Yamabushi_tengu_Spritelist_45: -2180153990649273512
+      Yamabushi_tengu_Spritelist_46: 865869186775382316
+      Yamabushi_tengu_Spritelist_47: -6415660716663920567
+      Yamabushi_tengu_Spritelist_48: -3330889015873438688
+      Yamabushi_tengu_Spritelist_49: -6970990381299670622
+      Yamabushi_tengu_Spritelist_5: -769717005011077362
+      Yamabushi_tengu_Spritelist_50: -7582522555616565671
+      Yamabushi_tengu_Spritelist_51: 4047309861607090760
+      Yamabushi_tengu_Spritelist_52: -7991826859381630113
+      Yamabushi_tengu_Spritelist_53: 7306751454516560906
+      Yamabushi_tengu_Spritelist_54: 5522226985194204690
+      Yamabushi_tengu_Spritelist_55: 9180257809714464318
+      Yamabushi_tengu_Spritelist_56: -5007820345246133451
+      Yamabushi_tengu_Spritelist_57: -6466374361898766105
+      Yamabushi_tengu_Spritelist_58: 201826450662338518
+      Yamabushi_tengu_Spritelist_59: 75424210621237162
+      Yamabushi_tengu_Spritelist_6: 83906164162626763
+      Yamabushi_tengu_Spritelist_60: -381035100890042090
+      Yamabushi_tengu_Spritelist_61: 8352686932390844006
+      Yamabushi_tengu_Spritelist_62: 3465852154765917777
+      Yamabushi_tengu_Spritelist_63: 740324876919805623
+      Yamabushi_tengu_Spritelist_64: 4817412099709789511
+      Yamabushi_tengu_Spritelist_65: 6524181222039311096
+      Yamabushi_tengu_Spritelist_66: -2074531469916256146
+      Yamabushi_tengu_Spritelist_67: 2794377384816138306
+      Yamabushi_tengu_Spritelist_68: 8010661520645968189
+      Yamabushi_tengu_Spritelist_7: 6978519484703645721
+      Yamabushi_tengu_Spritelist_8: -34312914543536219
+      Yamabushi_tengu_Spritelist_9: -1755302161928651768
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
