@@ -434,7 +434,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fire_Attack5_0: -6920969228610699133
+      Fire_Attack5_1: -8694419848030234525
+      Fire_Attack5_10: 8847092105251403974
+      Fire_Attack5_11: -8037760824964913747
+      Fire_Attack5_12: 79830755661486674
+      Fire_Attack5_2: -1554622107270105942
+      Fire_Attack5_3: -3639130061334780970
+      Fire_Attack5_4: -9194970506779128011
+      Fire_Attack5_5: 2481805057330865516
+      Fire_Attack5_6: 5653008872764184993
+      Fire_Attack5_7: -7563145787139680634
+      Fire_Attack5_8: -7111853391842009919
+      Fire_Attack5_9: 7858791096839121485
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

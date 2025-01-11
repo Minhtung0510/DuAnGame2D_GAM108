@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      medusa_0: 4136674337628803617
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

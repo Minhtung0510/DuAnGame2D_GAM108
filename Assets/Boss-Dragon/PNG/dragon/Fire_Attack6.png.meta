@@ -384,7 +384,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fire_Attack6_0: 1917294463776520724
+      Fire_Attack6_1: 6526590601554245997
+      Fire_Attack6_10: 7863042240909699921
+      Fire_Attack6_2: -6376810637834920752
+      Fire_Attack6_3: -5432053086830289090
+      Fire_Attack6_4: 3315092003890244771
+      Fire_Attack6_5: -8012358772373010557
+      Fire_Attack6_6: 7148441332810436812
+      Fire_Attack6_7: -7636994150659879249
+      Fire_Attack6_8: 6766848249829478559
+      Fire_Attack6_9: 6108464847494168770
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
