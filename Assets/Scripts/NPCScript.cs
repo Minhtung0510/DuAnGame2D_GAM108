@@ -83,7 +83,7 @@ public class NPCDialogue : MonoBehaviour
         }
         NPCPanel.SetActive(false);
 
-        LoadScence();
+        LoadScence();   
 
 
     }
