@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b23e9ef211db04bd29fc4fcac9f10e41
+timeCreated: 1490720812
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 86689
+  packageName: Grotto Escape II
+  packageVersion: 1.1
+  assetPath: Assets/GrottoEscape2/GrottoEscape2Artwork/animations/lava-falls.anim
+  uploadId: 174634

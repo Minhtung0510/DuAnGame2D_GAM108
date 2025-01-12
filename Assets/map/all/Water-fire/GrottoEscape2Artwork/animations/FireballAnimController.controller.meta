@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2905024e4a06a48b3943dbcf22af6fed
+timeCreated: 1492369895
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 86689
+  packageName: Grotto Escape II
+  packageVersion: 1.1
+  assetPath: Assets/GrottoEscape2/GrottoEscape2Artwork/animations/FireballAnimController.controller
+  uploadId: 174634

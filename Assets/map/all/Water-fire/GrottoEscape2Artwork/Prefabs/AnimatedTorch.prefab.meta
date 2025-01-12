@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9cd8b338ccbef46b8bdb27e871af6932
+timeCreated: 1492368893
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 86689
+  packageName: Grotto Escape II
+  packageVersion: 1.1
+  assetPath: Assets/GrottoEscape2/GrottoEscape2Artwork/Prefabs/AnimatedTorch.prefab
+  uploadId: 174634

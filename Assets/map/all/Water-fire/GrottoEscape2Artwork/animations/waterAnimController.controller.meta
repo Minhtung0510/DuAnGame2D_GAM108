@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d88dcc065ccad4f10b76ac765a5bb827
+timeCreated: 1492368915
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 86689
+  packageName: Grotto Escape II
+  packageVersion: 1.1
+  assetPath: Assets/GrottoEscape2/GrottoEscape2Artwork/animations/waterAnimController.controller
+  uploadId: 174634

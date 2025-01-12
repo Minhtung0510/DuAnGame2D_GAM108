@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5a08f9d29cce84c66a03c720c44c4384
+timeCreated: 1490720848
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 86689
+  packageName: Grotto Escape II
+  packageVersion: 1.1
+  assetPath: Assets/GrottoEscape2/GrottoEscape2Artwork/animations/water.anim
+  uploadId: 174634

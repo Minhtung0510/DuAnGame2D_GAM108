@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3000d1b35cf1a4c77855bd8c52a0a6f1
+timeCreated: 1492367613
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 86689
+  packageName: Grotto Escape II
+  packageVersion: 1.1
+  assetPath: Assets/GrottoEscape2/GrottoEscape2Artwork/Prefabs/AnimatedlavaTile.prefab
+  uploadId: 174634
