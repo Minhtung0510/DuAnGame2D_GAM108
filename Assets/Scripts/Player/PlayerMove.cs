@@ -61,7 +61,7 @@ public class PlayerMove : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D map)
     {
-        if(map.gameObject.tag == "Round")
+        if(map.gameObject.tag == "Ground")
         {
             canJump=true;
         }
@@ -69,7 +69,7 @@ public class PlayerMove : MonoBehaviour
     }
     private void OnTriggerExit2D(Collider2D map)
     {
-        if(map.gameObject.tag == "Round")
+        if(map.gameObject.tag == "Ground")
         {
             canJump=false;
         }
