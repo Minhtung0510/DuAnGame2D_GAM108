@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dcbe6088116e4440d8f98599c3f54cff
+timeCreated: 1490720778
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 86689
+  packageName: Grotto Escape II
+  packageVersion: 1.1
+  assetPath: Assets/GrottoEscape2/GrottoEscape2Artwork/animations/lava.anim
+  uploadId: 174634

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 490556bce7a8e4da8978997fb22ff3bd
+timeCreated: 1490720834
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 86689
+  packageName: Grotto Escape II
+  packageVersion: 1.1
+  assetPath: Assets/GrottoEscape2/GrottoEscape2Artwork/animations/torch.anim
+  uploadId: 174634

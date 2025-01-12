@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5f0a252676e154040af888330ff319f6
+timeCreated: 1492369024
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 86689
+  packageName: Grotto Escape II
+  packageVersion: 1.1
+  assetPath: Assets/GrottoEscape2/GrottoEscape2Artwork/animations/waterfallsAnimController.controller
+  uploadId: 174634
