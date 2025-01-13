@@ -23,10 +23,14 @@ public class Defend : MonoBehaviour
         {
             anmt.SetBool("isDefend", true);
             atk.SetActive(true);
+            cooldownTimer = cooldownTime;
         }
         else
         {
             anmt.SetBool("isDefend", false);
+        }
+         if (atk.activeSelf && cooldownTimer <= cooldownTime - 0.1f)
+        {
             atk.SetActive(false);
         }
         

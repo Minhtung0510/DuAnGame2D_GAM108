@@ -8,6 +8,8 @@ TagManager:
   - Die
   - Coin
   - Trap
+  - Enemy
+  - skill
   layers:
   - Default
   - TransparentFX

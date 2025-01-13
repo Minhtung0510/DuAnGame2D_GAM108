@@ -1,11 +1,9 @@
 using UnityEngine;
 
-public class attcak1 : MonoBehaviour
+public class attack1 : MonoBehaviour
 { 
     [Header("Motion Settings")]
     public float cooldownTime = 0.1f; 
-    public float throwForce = 10f;
-
     private float cooldownTimer = 0f;
     [SerializeField] private GameObject atk;
 
@@ -15,6 +13,7 @@ public class attcak1 : MonoBehaviour
     {
         atk.SetActive(false);
     }
+
     void Update()
     {
         cooldownTimer -= Time.deltaTime;
@@ -24,9 +23,16 @@ public class attcak1 : MonoBehaviour
         {
             anmt.SetBool("attack1", true);
             atk.SetActive(true);
+            cooldownTimer = cooldownTime;
         }
-        else anmt.SetBool("attack1", false);
-        atk.SetActive(false);
+        else 
+        {
+            anmt.SetBool("attack1", false);
+        }
+        if (atk.activeSelf && cooldownTimer <= cooldownTime - 0.1f)
+        {
+            atk.SetActive(false);
+        }
         
     }
 }
