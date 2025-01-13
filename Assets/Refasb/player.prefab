@@ -62,7 +62,7 @@ EdgeCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -178,7 +178,7 @@ EdgeCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -379,7 +379,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cooldownTime: 0.1
-  throwForce: 10
   atk: {fileID: 1546243181723735485}
   anmt: {fileID: 1134985666925926980}
 --- !u!114 &8128333682311260355
@@ -395,7 +394,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cooldownTime: 0.1
-  throwForce: 10
   atk: {fileID: 6621587354569926830}
   anmt: {fileID: 1134985666925926980}
 --- !u!114 &1889372813698015941
@@ -417,6 +415,8 @@ MonoBehaviour:
   flip: 1
   canJump: 0
   anmt: {fileID: 1134985666925926980}
+  maxHealth: 1000
+  healthBarFill: {fileID: 0}
 --- !u!212 &2998352108565407703
 SpriteRenderer:
   m_ObjectHideFlags: 0
