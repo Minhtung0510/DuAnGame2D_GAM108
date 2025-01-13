@@ -71,7 +71,7 @@ public class NPCDialogue : MonoBehaviour
        
         NPCPanel.SetActive(false);
 
-        LoadScence();
+       
     }
 
     public void SkipDialogue()
@@ -83,14 +83,10 @@ public class NPCDialogue : MonoBehaviour
         }
         NPCPanel.SetActive(false);
 
-        LoadScence();   
+      
 
 
     }
-    private void LoadScence()
-    {
-        SceneManager.LoadScene(2);
-    }
-
+    
   
 }
