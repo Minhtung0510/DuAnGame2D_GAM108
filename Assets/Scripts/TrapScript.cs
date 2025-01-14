@@ -2,20 +2,18 @@
 
 public class TrapScript : MonoBehaviour
 {
-    [SerializeField] private float damage = 20f; 
+   
+    [SerializeField] private float damageAmount = 1f;
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player"))
         {
-           
-            PlayerMove player = collision.GetComponent<PlayerMove>();
-            if (player != null)
+            PlayerHealth playerHealth = collision.GetComponent<PlayerHealth>();
+            if (playerHealth != null)
             {
-                player.TakeDamage(damage); 
+                playerHealth.TakeDamage(damageAmount);
             }
-
-            Debug.Log("Player mất máu");
         }
     }
 }

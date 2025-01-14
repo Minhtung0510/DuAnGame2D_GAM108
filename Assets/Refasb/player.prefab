@@ -298,6 +298,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 376266873369878969}
+  - component: {fileID: 7370163382648043442}
+  - component: {fileID: 1161584254283136056}
   - component: {fileID: 2003882560726224262}
   - component: {fileID: 7521577983116140121}
   - component: {fileID: 6081361804343309432}
@@ -334,6 +336,36 @@ Transform:
   - {fileID: 2781427039459960147}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7370163382648043442
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7282645383770173940}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08e9083862cfc6f4aaf7f0ab95e7152a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  coinText: {fileID: 0}
+--- !u!114 &1161584254283136056
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7282645383770173940}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 700044c3c5cc5234ca3e2f85a3125196, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHealth: 5
+  healthText: {fileID: 0}
+  healthBar: {fileID: 0}
+  _GameOver: {fileID: 0}
+  anmt: {fileID: 0}
 --- !u!114 &2003882560726224262
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -415,8 +447,6 @@ MonoBehaviour:
   flip: 1
   canJump: 0
   anmt: {fileID: 1134985666925926980}
-  maxHealth: 1000
-  healthBarFill: {fileID: 0}
 --- !u!212 &2998352108565407703
 SpriteRenderer:
   m_ObjectHideFlags: 0

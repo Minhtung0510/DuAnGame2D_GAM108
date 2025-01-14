@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ce288335360c90d4a81d230f9fc11987
+guid: 5ac2c337f411c7d4c9f4ea1fce1b1b81
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8955946552154695860
-    second: chotj_0
+      213: -4646388339264681199
+    second: khung_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,17 +96,56 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: chotj_0
+      name: khung_0
       rect:
         serializedVersion: 2
-        x: 44
-        y: 58
-        width: 57
-        height: 11
+        x: 24
+        y: 22
+        width: 401
+        height: 404
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c475f6bbf0616b380800000000000000
-      internalID: -8955946552154695860
+      spriteID: 11b8c9d4c66b48fb0800000000000000
+      internalID: -4646388339264681199
       vertices: []
       indices: 
       edges: []
@@ -134,8 +173,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      chotj_0: -8955946552154695860
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

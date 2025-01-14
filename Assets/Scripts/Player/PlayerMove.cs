@@ -13,16 +13,12 @@ public class PlayerMove : MonoBehaviour
     public bool canJump;
     public Animator anmt;
 
-    [SerializeField] private float maxHealth = 1000f;
-    private float currentHealth;
-    [SerializeField] private Image healthBarFill;
+
   
 
     // Start is called before the first frame update
     void Start()
     {
-        
-        currentHealth = maxHealth;
     }
 
     // Update is called once per frame
@@ -80,34 +76,6 @@ public class PlayerMove : MonoBehaviour
         if(map.gameObject.tag == "Ground")
         {
             canJump=false;
-        }
-    }
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (collision.gameObject.tag == "Die")
-        {
-            Application.Quit();
-#if UNITY_EDITOR
-            UnityEditor.EditorApplication.isPlaying = false;
-#endif
-        }
-    }
-    public void TakeDamage(float damage)
-    {
-        currentHealth -= damage; 
-        currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth); 
-
-      
-        if (healthBarFill != null)
-        {
-            healthBarFill.fillAmount = currentHealth / maxHealth;
-        }
-
-       
-        if (currentHealth <= 0)
-        {
-            Debug.Log("Player đã chết!");
-            
         }
     }
     
