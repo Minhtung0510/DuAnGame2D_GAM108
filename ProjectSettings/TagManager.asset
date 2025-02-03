@@ -11,6 +11,8 @@ TagManager:
   - Enemy
   - skill
   - HP
+  - Fire
+  - Water
   layers:
   - Default
   - TransparentFX

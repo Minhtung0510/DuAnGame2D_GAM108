@@ -57,6 +57,14 @@ public class PlayerHealth : MonoBehaviour
             Heal(2f);
            
         }
+        if (other.CompareTag("Fire"))
+        {
+            PlayerDie();
+        }
+        if (other.CompareTag("Water"))
+        {
+            PlayerDie();
+        }
         //if (other.CompareTag("chaps"))
         //{
         //Destroy(gameObject);
@@ -78,8 +86,8 @@ public class PlayerHealth : MonoBehaviour
     private void PlayerDie()
     {
         anmt.SetBool("isDie",true);
-        Invoke("ShowGameOver", 1.5f);
-        Destroy(gameObject, 1.5f);
+        Invoke("ShowGameOver", 1f);
+        Destroy(gameObject, 1f);
     }
     void ShowGameOver()
     {
