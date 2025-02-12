@@ -21,6 +21,7 @@ public class PlayerHealth : MonoBehaviour
         currentHealth = maxHealth;
 
         UpdateHealthUI();
+        
     }
     void Update(){
 
