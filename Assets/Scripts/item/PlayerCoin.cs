@@ -3,30 +3,22 @@ using TMPro;
 
 public class PlayerCoin : MonoBehaviour
 {
-    [Header("Coin Settings")]
-    private float currentCoin;
-
-    [Header("UI Settings")]
     [SerializeField] private TextMeshProUGUI coinText;
+    private float currentCoin;
 
     void Start()
     {
-
-        //LoadCoins();
+        currentCoin = PlayerManager.instance.coins;
         UpdateCoinText();
-
     }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Coin"))
         {
-            AddCoin(1f);
+            AddCoin(1);
             Destroy(other.gameObject);
-            SaveCoins();
-
         }
-        
     }
 
     private void UpdateCoinText()
@@ -40,26 +32,15 @@ public class PlayerCoin : MonoBehaviour
     public void AddCoin(float amount)
     {
         currentCoin += amount;
+        PlayerManager.instance.coins = currentCoin;
+        UpdateCoinText();
+        PlayerManager.instance.SaveGame();
+    }
+
+    public void SetCoins(float amount)
+    {
+        currentCoin = amount;
+        PlayerManager.instance.coins = amount;
         UpdateCoinText();
     }
-
-
-    // Lấy số coin hiện tại
-    public float GetCurrentCoin()
-    {
-        return currentCoin;
-    }
-     public void SaveCoins()
-    {
-        PlayerPrefs.SetFloat("coin", currentCoin);
-        PlayerPrefs.Save();
-
-    }
-    // Tải số coin đã lưu
-    public void LoadCoins()
-    {
-        currentCoin = PlayerPrefs.GetFloat("coin", currentCoin);
-
-    }
- 
 }

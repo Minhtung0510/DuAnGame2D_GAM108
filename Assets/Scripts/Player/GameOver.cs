@@ -29,8 +29,9 @@ public class GameOver : MonoBehaviour
     public void PlayAgain()
     {
         // Load lại scene hiện tại
-        Time.timeScale = 1f;
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+         Time.timeScale = 1f; // Đặt tốc độ game về bình thường
+    PlayerManager.instance.LoadGame();
+        gameOverPanel.SetActive(false);
     }
 
     public void QuitGame()
