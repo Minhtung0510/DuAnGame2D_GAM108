@@ -71,6 +71,7 @@ public class PlayerHealth : MonoBehaviour
      private void PlayerDie()
     {
         //anmt.SetBool("isDie",true);
+
         Invoke("ShowGameOver", 1f);
 
     }
