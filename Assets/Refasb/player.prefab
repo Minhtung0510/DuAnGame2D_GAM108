@@ -298,6 +298,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 376266873369878969}
+  - component: {fileID: 6771250214090537892}
   - component: {fileID: 7370163382648043442}
   - component: {fileID: 1161584254283136056}
   - component: {fileID: 2003882560726224262}
@@ -336,6 +337,21 @@ Transform:
   - {fileID: 2781427039459960147}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6771250214090537892
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7282645383770173940}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a640fb71b449f6849b8e5e683bc3795e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hp: 5
+  maxHp: 5
+  coins: 0
 --- !u!114 &7370163382648043442
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -361,10 +377,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 700044c3c5cc5234ca3e2f85a3125196, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 5
   healthText: {fileID: 0}
   healthBar: {fileID: 0}
-  _GameOver: {fileID: 0}
   anmt: {fileID: 0}
 --- !u!114 &2003882560726224262
 MonoBehaviour:
