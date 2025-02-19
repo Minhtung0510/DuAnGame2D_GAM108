@@ -1,0 +1,580 @@
+fileFormatVersion: 2
+guid: d927c24b1af53ba42bd9a423ef3189b8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-game-button-set-yellow-png-png-image_5998358_0
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 958
+        width: 198
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6fd3c8f7268f44d9dfbfcf651a64d4
+      internalID: -361270977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-button-set-yellow-png-png-image_5998358_1
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 958
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4606af2bb7232084184523ec713c96e9
+      internalID: -1322225875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-button-set-yellow-png-png-image_5998358_2
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 955
+        width: 196
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25de9a23936a1d440b1b7719dd0e5bc3
+      internalID: 14708294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-button-set-yellow-png-png-image_5998358_3
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 953
+        width: 195
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d735004a39566bf478fab1607ece3794
+      internalID: 1841607654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-button-set-yellow-png-png-image_5998358_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 729
+        width: 200
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49b56cb2319826488b5d70effc68fcb
+      internalID: -1908285938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-button-set-yellow-png-png-image_5998358_5
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 730
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669ad2aa31b48ad4bbd9780ef4ab9971
+      internalID: 162241013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-button-set-yellow-png-png-image_5998358_6
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 729
+        width: 201
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db20c4f2e2a1dec4d9e3e4c3c148bbda
+      internalID: -1263814718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-button-set-yellow-png-png-image_5998358_7
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 730
+        width: 195
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4050e3d4e3a60ca4aa4dd8887702101b
+      internalID: -2012185985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-button-set-yellow-png-png-image_5998358_8
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 502
+        width: 199
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cecf47b4045fb245a44cd3a01ef1b8b
+      internalID: 913876481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-button-set-yellow-png-png-image_5998358_9
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 499
+        width: 196
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fcf36e6c2502149984ec628baa1174
+      internalID: 41832163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-button-set-yellow-png-png-image_5998358_10
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 502
+        width: 196
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f6e174aa1430e44bc0ff89cb785ef7
+      internalID: 764894904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-button-set-yellow-png-png-image_5998358_11
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 502
+        width: 195
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42633297059189f419a1b293005e7a46
+      internalID: 531301985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-button-set-yellow-png-png-image_5998358_12
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 274
+        width: 195
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d4032aed07a294cbfa92dccf4b049d
+      internalID: -610321560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-button-set-yellow-png-png-image_5998358_13
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 273
+        width: 196
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372f0f01bfecdc24cb911259a47ff7ed
+      internalID: 499670602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-button-set-yellow-png-png-image_5998358_14
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 274
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ca11b1ba300e044a3bc3698a5bd5ff
+      internalID: 1296142799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-button-set-yellow-png-png-image_5998358_15
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 272
+        width: 195
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39901b606acff1f4ca89fd547e0c9563
+      internalID: 1978056730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-button-set-yellow-png-png-image_5998358_16
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 46
+        width: 195
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292a496b5a541224784f56b2d646f516
+      internalID: 1494397657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-button-set-yellow-png-png-image_5998358_17
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 46
+        width: 196
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afe712c478d9a24cace579d2ff31db3
+      internalID: 1190461905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-button-set-yellow-png-png-image_5998358_18
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 46
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96afb1aa23b3ddd4e8bf2ecb29f4c79e
+      internalID: 458403107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-button-set-yellow-png-png-image_5998358_19
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 46
+        width: 195
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cc8b4079f1dbe488561140805fe9ab
+      internalID: -702650685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pngtree-game-button-set-yellow-png-png-image_5998358_0: -361270977
+      pngtree-game-button-set-yellow-png-png-image_5998358_1: -1322225875
+      pngtree-game-button-set-yellow-png-png-image_5998358_10: 764894904
+      pngtree-game-button-set-yellow-png-png-image_5998358_11: 531301985
+      pngtree-game-button-set-yellow-png-png-image_5998358_12: -610321560
+      pngtree-game-button-set-yellow-png-png-image_5998358_13: 499670602
+      pngtree-game-button-set-yellow-png-png-image_5998358_14: 1296142799
+      pngtree-game-button-set-yellow-png-png-image_5998358_15: 1978056730
+      pngtree-game-button-set-yellow-png-png-image_5998358_16: 1494397657
+      pngtree-game-button-set-yellow-png-png-image_5998358_17: 1190461905
+      pngtree-game-button-set-yellow-png-png-image_5998358_18: 458403107
+      pngtree-game-button-set-yellow-png-png-image_5998358_19: -702650685
+      pngtree-game-button-set-yellow-png-png-image_5998358_2: 14708294
+      pngtree-game-button-set-yellow-png-png-image_5998358_3: 1841607654
+      pngtree-game-button-set-yellow-png-png-image_5998358_4: -1908285938
+      pngtree-game-button-set-yellow-png-png-image_5998358_5: 162241013
+      pngtree-game-button-set-yellow-png-png-image_5998358_6: -1263814718
+      pngtree-game-button-set-yellow-png-png-image_5998358_7: -2012185985
+      pngtree-game-button-set-yellow-png-png-image_5998358_8: 913876481
+      pngtree-game-button-set-yellow-png-png-image_5998358_9: 41832163
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
