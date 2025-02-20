@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3189919200691414359}
   - component: {fileID: 3720987398861149392}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: attack2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2781427039459960147}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: spawn point
   m_TagString: Untagged
   m_Icon: {fileID: 8418204508859773708, guid: 0000000000000000d000000000000000, type: 0}
@@ -126,7 +126,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2161384593495635944}
   - component: {fileID: 2509997395824576215}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: defend
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -207,7 +207,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4727820110415890638}
   - component: {fileID: 5326338567567650212}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: attack1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -311,7 +311,7 @@ GameObject:
   - component: {fileID: 1574806619857510453}
   - component: {fileID: 7168702874812902105}
   - component: {fileID: 4765077000112488433}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: player
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -349,9 +349,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a640fb71b449f6849b8e5e683bc3795e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hp: 5
-  maxHp: 5
   coins: 0
+  health: 0
+  position: {x: 0, y: 0, z: 0}
 --- !u!114 &7370163382648043442
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -377,8 +377,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 700044c3c5cc5234ca3e2f85a3125196, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  maxHealth: 5
+  currentHealth: 0
   healthText: {fileID: 0}
   healthBar: {fileID: 0}
+  _GameOver: {fileID: 0}
   anmt: {fileID: 0}
 --- !u!114 &2003882560726224262
 MonoBehaviour:
