@@ -1,0 +1,3 @@
+Region: VN, Avg Score: 200.00
+Region: VN1, Avg Score: 1500.00
+Region: VN2, Avg Score: 300.00
