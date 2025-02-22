@@ -42,6 +42,7 @@ public class SheepAI : MonoBehaviour
     {
         if (!isChasing)
         {
+            anmt.SetBool("isRun", true);
             MoveEnemy(); // Nếu không đuổi theo người chơi, thực hiện tuần tra
         }
     }
@@ -74,9 +75,9 @@ public class SheepAI : MonoBehaviour
         {
             targetPosition = player.position; // Cập nhật vị trí mục tiêu
             FaceTarget(targetPosition); // Quay mặt về phía mục tiêu
-            anmt.SetBool("atk", true);
+            anmt.SetBool("isAtk", true);
             DashTowards(targetPosition); // Lao nhanh tới mục tiêu
-            anmt.SetBool("isHit", true);
+            anmt.SetBool("stun", true);
             yield return new WaitForSeconds(2f); // Dừng lại 2 giây sau khi lao tới
             
             
@@ -87,7 +88,7 @@ public class SheepAI : MonoBehaviour
                 yield return new WaitForSeconds(1f);
                 
             }
-            anmt.SetBool("isRun", true);
+            
         }
         
         StopChase(); // Nếu mất dấu người chơi, quay lại tuần tra
@@ -96,6 +97,7 @@ public class SheepAI : MonoBehaviour
 
     void StopChase()
     {
+        anmt.SetBool("isRun", true);
         isChasing = false; // Ngừng đuổi
         player = null; // Xóa mục tiêu
         // Chọn điểm tuần tra gần nhất để quay lại tuần tra
