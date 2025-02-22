@@ -74,7 +74,7 @@ public class DemonFire3 : MonoBehaviour
             {
                 moveDirection = (player.position - transform.position).normalized;
                 transform.Translate(moveDirection * 1f*Time.deltaTime); 
-                animator.SetBool("isWalk",true);
+                animator.SetBool("Walk",true);
                           
             }
             else
@@ -84,7 +84,7 @@ public class DemonFire3 : MonoBehaviour
             }
         }else
         {
-            animator.SetBool("isWalk", false);
+            animator.SetBool("Walk", false);
         }
     }
     void Attack()
@@ -100,7 +100,7 @@ public class DemonFire3 : MonoBehaviour
                 {
                     attackEndTime = Time.time + attackDuration;
                     isAttacking = true;
-                    animator.SetTrigger("isAttack");
+                    animator.SetTrigger("Attack");
                     stopHit = false;
                 }
                 if (attackType == 1)
@@ -176,7 +176,7 @@ public class DemonFire3 : MonoBehaviour
                 health -= 5;
                 if (stopHit)
                 {
-                    animator.SetTrigger("isTakeHit");
+                    animator.SetTrigger("GetHit");
                 }
                 if (right)
                 {
@@ -200,7 +200,7 @@ public class DemonFire3 : MonoBehaviour
                 health -= 10;
                 if (stopHit)
                 {
-                    animator.SetTrigger("isHurt");
+                    animator.SetTrigger("GetHit");
                 }
                 stopAttack = false;
 
@@ -215,7 +215,7 @@ public class DemonFire3 : MonoBehaviour
                 health -= 20;
                 if (stopHit)
                 {
-                    animator.SetTrigger("isHurt");
+                    animator.SetTrigger("GetHit");
                 }
                 stopAttack = false;
 
@@ -230,7 +230,7 @@ public class DemonFire3 : MonoBehaviour
                 health -= 35;
                 if (stopHit)
                 {
-                    animator.SetTrigger("isHurt");
+                    animator.SetTrigger("GetHit");
                 }
                 stopAttack = false;
 
@@ -246,7 +246,7 @@ public class DemonFire3 : MonoBehaviour
                 health -= 40;
                 if (stopHit)
                 {
-                    animator.SetTrigger("isHurt");
+                    animator.SetTrigger("GetHit");
                 }
                 stopAttack = false;
 
@@ -259,12 +259,9 @@ public class DemonFire3 : MonoBehaviour
             {
                 Destroy(gameObject, 1.8f);
                 tilemap.gameObject.SetActive(false);
-                animator.SetTrigger("isDeath");
+                animator.SetTrigger("Death");
             }
         }
     }
-    private void OnTriggerExit2D(Collider2D other)
-    {
-        
-    }
+  
 }
