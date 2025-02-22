@@ -1,85 +1,125 @@
-
-using System;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Enemy2 : MonoBehaviour
 {
-    [SerializeField] float moveSpeed = 1f;
-    [SerializeField] Transform startPoint; // Điểm bắt đầu
-    [SerializeField] Transform endPoint;   // Điểm kết thúc
-    [SerializeField] Rigidbody2D rb;
-    public int maxHealth = 100;  // Máu tối đa của kẻ địch
-    private int currentHealth;   // Máu hiện tại của kẻ địch
-    private bool movingToEnd = true; // Xác định hướng di chuyển
-    private Vector2 currentTarget;  // Mục tiêu hiện tại
+    [Header("Di Chuyển")]
+    [SerializeField] private float leftLimit;   // Giới hạn bên trái
+    [SerializeField] private float rightLimit;  // Giới hạn bên phải
+    [SerializeField] private float speed = 2f;  // Tốc độ di chuyển
+    private bool movingRight = true;
+    private Rigidbody2D rb;
+    private Vector3 initialScale;
+
+    [Header("Tấn Công")]
+    public float attackRange = 1.5f;   // Phạm vi tấn công
+    public float attackCooldown = 1.5f;// Thời gian giữa các đòn đánh
+    public int attackDamage = 20;      // Sát thương gây ra
+    private bool canAttack = true;
+
+    [Header("Máu")]
+    public Slider healthSlider;
+    public int maxHealth = 100;
+    private int currentHealth;
+
+    private Transform player;
 
     void Start()
     {
-        // Khởi tạo máu hiện tại bằng máu tối đa
+        rb = GetComponent<Rigidbody2D>();
+        initialScale = transform.localScale;
+
+        player = GameObject.FindGameObjectWithTag("Player")?.transform;
+
+        // Thiết lập máu
         currentHealth = maxHealth;
-        // Khởi tạo mục tiêu là endPoint
-        currentTarget = endPoint.position;
+        if (healthSlider != null)
+        {
+            healthSlider.maxValue = maxHealth;
+            healthSlider.value = maxHealth;
+        }
     }
+
     void Update()
     {
-        Move();
+        if (player != null && Vector2.Distance(transform.position, player.position) <= attackRange)
+        {
+            AttackPlayer();
+        }
+        else
+        {
+            Patrol();
+        }
     }
 
-    void Move()
-{
-    Vector2 direction = transform.localScale.x > 0 ? Vector2.right : Vector2.left;
-    rb.linearVelocity = direction * moveSpeed;
-}
-
-
-    void OnTriggerExit2D(Collider2D collision)
+    private void Patrol()
     {
-        HorizontalFlip();
-    }
-    void OnTriggerEnter2D(Collider2D collision)
-    {
-    if (collision.CompareTag("Player"))
-    {
-        Debug.Log("Enemy collided with the player!");
-        // Gọi hàm tấn công hoặc giảm máu của người chơi tại đây.
-    }
+        if (transform.position.x <= leftLimit)
+        {
+            movingRight = true;
+        }
+        else if (transform.position.x >= rightLimit)
+        {
+            movingRight = false;
+        }
+
+        float moveDirection = movingRight ? 1 : -1;
+        rb.linearVelocity = new Vector2(moveDirection * speed, rb.linearVelocity.y);
+
+        // Đổi hướng quái
+        transform.localScale = new Vector3(movingRight ? -initialScale.x : initialScale.x, initialScale.y, initialScale.z);
     }
 
-    private void HorizontalFlip()
+    private void AttackPlayer()
     {
-    float newScaleX = -Mathf.Sign(rb.linearVelocity.x);
-    transform.localScale = new Vector2(-6f, 5f);
-    Debug.Log("Enemy flipped direction. New scale: " + transform.localScale.x);
+        rb.linearVelocity = Vector2.zero; // Dừng di chuyển
+
+        if (canAttack)
+        {
+            canAttack = false;
+            Debug.Log("Quái tấn công!");
+
+            PlayerHealth playerHealth = player.GetComponent<PlayerHealth>();
+            if (playerHealth != null)
+            {
+                playerHealth.TakeDamage(attackDamage);
+            }
+
+            Invoke(nameof(ResetAttack), attackCooldown);
+        }
     }
 
+    private void ResetAttack()
+    {
+        canAttack = true;
+    }
 
     public void TakeDamage(int damage)
     {
         currentHealth -= damage;
-    // Instantiate(damageEffect, transform.position, Quaternion.identity);
-    Debug.Log("Enemy took " + damage + " damage. Current health: " + currentHealth);
+        if (healthSlider != null)
+        {
+            healthSlider.value = currentHealth;
+        }
+
         if (currentHealth <= 0)
         {
             Die();
         }
     }
 
-    // Hàm chết
-    void Die()
+    private void Die()
     {
-        Debug.Log("Enemy died!");
-        // audioSource.PlayOneShot(deathSound);
+        Debug.Log("Quái đã chết!");
         Destroy(gameObject);
     }
-     void FlipDirection()
-    {
-        // Đổi hướng di chuyển
-        movingToEnd = !movingToEnd;
-        currentTarget = movingToEnd ? endPoint.position : startPoint.position;
 
-        // Lật hình ảnh để quái hướng về đúng phía
-        transform.localScale = new Vector2(-transform.localScale.x, transform.localScale.y);
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("Bullet"))  // Kiểm tra nếu trúng đạn
+        {
+            TakeDamage(20);
+            Destroy(collision.gameObject); // Hủy đạn sau khi trúng
+        }
     }
 }

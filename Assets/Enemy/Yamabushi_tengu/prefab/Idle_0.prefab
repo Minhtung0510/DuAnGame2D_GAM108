@@ -10,10 +10,10 @@ GameObject:
   m_Component:
   - component: {fileID: 2433589407819696050}
   - component: {fileID: 6791260305040891827}
-  - component: {fileID: 334364519502406515}
   - component: {fileID: 8056702503103177648}
   - component: {fileID: 2123816978781887597}
   - component: {fileID: 4189639680640239936}
+  - component: {fileID: 2779167559853803394}
   m_Layer: 0
   m_Name: Idle_0
   m_TagString: Untagged
@@ -91,23 +91,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &334364519502406515
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2871596988802817349}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5d429436a0fc8514797b52228aa2139e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  moveSpeed: 2
-  startPoint: {fileID: 0}
-  endPoint: {fileID: 0}
-  rb: {fileID: 0}
-  maxHealth: 100
 --- !u!50 &8056702503103177648
 Rigidbody2D:
   serializedVersion: 5
@@ -203,3 +186,23 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &2779167559853803394
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2871596988802817349}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d243b96dbead32b4b94fa8a6083349d0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  leftLimit: 0
+  rightLimit: 0
+  speed: 2
+  attackRange: 1.5
+  attackCooldown: 1.5
+  attackDamage: 20
+  healthSlider: {fileID: 0}
+  maxHealth: 100
