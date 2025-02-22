@@ -119,6 +119,39 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &54994369 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2788600241243270037, guid: 3ce13845981d29c4cb1f506f6aa0b555, type: 3}
+  m_PrefabInstance: {fileID: 308851220}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &54994370
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 54994369}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07af46325c97be2469ecee53b9ac10a5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  detectionRange: 7
+  deterctionAttack: 5
+  player: {fileID: 0}
+  attackCooldown: 5
+  attackDuration: 2.3
+  attackSkill: {fileID: 0}
+  attack: {fileID: 0}
+  fireBall: {fileID: 0}
+  fireTransform: {fileID: 0}
+  fireBall2: {fileID: 0}
+  fireTransform2: {fileID: 0}
+  fireBall3: {fileID: 0}
+  fireTransform3: {fileID: 0}
+  fireBall4: {fileID: 0}
+  fireTransform4: {fileID: 0}
+  tilemap: {fileID: 830483016}
 --- !u!1 &241530731
 GameObject:
   m_ObjectHideFlags: 0
@@ -206,6 +239,75 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &308851220
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1450395382015705417, guid: 3ce13845981d29c4cb1f506f6aa0b555, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 102.21434
+      objectReference: {fileID: 0}
+    - target: {fileID: 1450395382015705417, guid: 3ce13845981d29c4cb1f506f6aa0b555, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 1450395382015705417, guid: 3ce13845981d29c4cb1f506f6aa0b555, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1450395382015705417, guid: 3ce13845981d29c4cb1f506f6aa0b555, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1450395382015705417, guid: 3ce13845981d29c4cb1f506f6aa0b555, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1450395382015705417, guid: 3ce13845981d29c4cb1f506f6aa0b555, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1450395382015705417, guid: 3ce13845981d29c4cb1f506f6aa0b555, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1450395382015705417, guid: 3ce13845981d29c4cb1f506f6aa0b555, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1450395382015705417, guid: 3ce13845981d29c4cb1f506f6aa0b555, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1450395382015705417, guid: 3ce13845981d29c4cb1f506f6aa0b555, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2351423744038792328, guid: 3ce13845981d29c4cb1f506f6aa0b555, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2351423744038792328, guid: 3ce13845981d29c4cb1f506f6aa0b555, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2788600241243270037, guid: 3ce13845981d29c4cb1f506f6aa0b555, type: 3}
+      propertyPath: m_Name
+      value: Demon(Boss3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 5174053506209463006, guid: 3ce13845981d29c4cb1f506f6aa0b555, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 2788600241243270037, guid: 3ce13845981d29c4cb1f506f6aa0b555, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 54994370}
+  m_SourcePrefab: {fileID: 100100000, guid: 3ce13845981d29c4cb1f506f6aa0b555, type: 3}
 --- !u!1 &343656841
 GameObject:
   m_ObjectHideFlags: 0
@@ -39681,3 +39783,4 @@ SceneRoots:
   - {fileID: 1471607741}
   - {fileID: 676498324}
   - {fileID: 417375599}
+  - {fileID: 308851220}
