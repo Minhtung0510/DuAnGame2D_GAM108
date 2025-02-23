@@ -13,7 +13,7 @@ public class PigMovement : MonoBehaviour
     private bool isCharging = false; // Trạng thái húc
     private bool isStunned = false; // Trạng thái bất động sau khi húc
 
-    public Animator anmt;
+    public Animator anmt; // Animator để quản lý hoạt ảnh
 
     void Start()
     {
@@ -25,9 +25,7 @@ public class PigMovement : MonoBehaviour
         // Nếu không húc và không bị choáng, tiếp tục di chuyển và kiểm tra người chơi
         if (!isCharging && !isStunned)
         {
-            
             Move();
-            anmt.SetBool("stun", false);
             DetectPlayer();
         }
     }
@@ -36,6 +34,7 @@ public class PigMovement : MonoBehaviour
     {
         // Di chuyển theo hướng hiện tại với tốc độ cố định
         rb.linearVelocity = new Vector2(speed * direction, rb.linearVelocity.y);
+        anmt.SetBool("isMoving", true); // Kích hoạt animation di chuyển
     }
 
     void DetectPlayer()
@@ -67,7 +66,8 @@ public class PigMovement : MonoBehaviour
     {
         isStunned = true; // Đặt trạng thái bất động
         rb.linearVelocity = Vector2.zero; // Dừng di chuyển
-        anmt.SetBool("is1", true);
+        anmt.SetBool("isMoving", false); // Dừng animation di chuyển
+        anmt.SetTrigger("prepareCharge"); // Kích hoạt animation chuẩn bị húc
         Invoke(nameof(Charge), 1f); // Dừng 1 giây trước khi húc
     }
 
@@ -76,8 +76,8 @@ public class PigMovement : MonoBehaviour
         isStunned = false; // Hết bất động
         isCharging = true; // Bắt đầu húc
         rb.linearVelocity = new Vector2(chargeSpeed * direction, 0f); // Di chuyển nhanh về phía trước
-        anmt.SetBool("isAtk", true);
-        Invoke(nameof(StopCharge), 1f); // Húc trong 0.5 giây rồi dừng lại
+        anmt.SetTrigger("charge"); // Kích hoạt animation húc
+        Invoke(nameof(StopCharge), 1f); // Húc trong 1 giây rồi dừng lại
     }
 
     void StopCharge()
@@ -85,14 +85,14 @@ public class PigMovement : MonoBehaviour
         isCharging = false; // Kết thúc húc
         rb.linearVelocity = Vector2.zero; // Dừng lại hoàn toàn
         isStunned = true; // Bắt đầu trạng thái bất động
-        anmt.SetBool("stun", true);
-        Invoke(nameof(Recover), 2f); // Dừng 2 giây trước khi di chuyển lại
+        anmt.SetTrigger("stunned"); // Kích hoạt animation bị choáng
+        Invoke(nameof(Recover), 4f); // Dừng 2 giây trước khi di chuyển lại
     }
 
     void Recover()
     {
         isStunned = false; // Hết bất động, tiếp tục di chuyển bình thường
-        
+        anmt.SetBool("isMoving", true); // Bật lại animation di chuyển
     }
 
     void OnCollisionEnter2D(Collision2D collision)

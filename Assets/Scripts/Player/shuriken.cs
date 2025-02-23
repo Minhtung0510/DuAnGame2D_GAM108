@@ -52,4 +52,5 @@ public class shuriken : MonoBehaviour
     rb.AddForce(force * throwForce, ForceMode2D.Impulse);
      Destroy(liemInstance, 2f);
 }
+
 }
