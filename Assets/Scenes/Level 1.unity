@@ -851,7 +851,7 @@ Transform:
   m_GameObject: {fileID: 211138224}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -24.64, y: -2.2, z: -10}
+  m_LocalPosition: {x: 91.5, y: 12.8, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -941,6 +941,52 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 3672122772654111477, guid: 93a1962f4630e5840a41b23efe32e280, type: 3}
   m_PrefabInstance: {fileID: 6117755774595219559}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &284830562
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 284830564}
+  - component: {fileID: 284830563}
+  m_Layer: 0
+  m_Name: GAmeMAnager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &284830563
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 284830562}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ef840cd10e8f394d93516a6f5297b44, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fragmentCount: 0
+  bossSceneName: Boss
+--- !u!4 &284830564
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 284830562}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 311.2969, y: -4.87602, z: -0.092170484}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &292153077 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8178196814254742994, guid: 175da11d3430491498b7f1d03c9068b5, type: 3}
@@ -2116,7 +2162,7 @@ Transform:
   m_GameObject: {fileID: 936632061}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -24.64, y: -2.2, z: -10}
+  m_LocalPosition: {x: 91.5, y: 12.8, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -25326,11 +25372,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 376266873369878969, guid: 2266bd7bc1091a740a0356200f005ca2, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -24.64
+      value: 91.5
       objectReference: {fileID: 0}
     - target: {fileID: 376266873369878969, guid: 2266bd7bc1091a740a0356200f005ca2, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.2
+      value: 12.8
       objectReference: {fileID: 0}
     - target: {fileID: 376266873369878969, guid: 2266bd7bc1091a740a0356200f005ca2, type: 3}
       propertyPath: m_LocalPosition.z
@@ -25877,3 +25923,4 @@ SceneRoots:
   - {fileID: 152926422}
   - {fileID: 1438142558}
   - {fileID: 580678694}
+  - {fileID: 284830564}
