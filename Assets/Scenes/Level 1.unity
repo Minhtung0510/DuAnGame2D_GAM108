@@ -549,7 +549,7 @@ GameObject:
   - component: {fileID: 152926419}
   m_Layer: 0
   m_Name: "m\xE3nhv\u1EE11"
-  m_TagString: Untagged
+  m_TagString: Fragment
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
