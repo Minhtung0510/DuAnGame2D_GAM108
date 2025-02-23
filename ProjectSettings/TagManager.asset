@@ -13,6 +13,12 @@ TagManager:
   - HP
   - Fire
   - Water
+  - FireBall1
+  - Skill1(Boss3)
+  - Boss
+  - Attack1
+  - Attack2
+  - SkillSuriken
   layers:
   - Default
   - TransparentFX
