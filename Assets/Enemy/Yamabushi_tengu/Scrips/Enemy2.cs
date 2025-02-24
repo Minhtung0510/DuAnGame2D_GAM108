@@ -17,11 +17,6 @@ public class Enemy2 : MonoBehaviour
     public int attackDamage = 20;      // Sát thương gây ra
     private bool canAttack = true;
 
-    [Header("Máu")]
-    public Slider healthSlider;
-    public int maxHealth = 100;
-    private int currentHealth;
-
     private Transform player;
 
     void Start()
@@ -30,14 +25,6 @@ public class Enemy2 : MonoBehaviour
         initialScale = transform.localScale;
 
         player = GameObject.FindGameObjectWithTag("Player")?.transform;
-
-        // Thiết lập máu
-        currentHealth = maxHealth;
-        if (healthSlider != null)
-        {
-            healthSlider.maxValue = maxHealth;
-            healthSlider.value = maxHealth;
-        }
     }
 
     void Update()
@@ -94,32 +81,5 @@ public class Enemy2 : MonoBehaviour
         canAttack = true;
     }
 
-    public void TakeDamage(int damage)
-    {
-        currentHealth -= damage;
-        if (healthSlider != null)
-        {
-            healthSlider.value = currentHealth;
-        }
-
-        if (currentHealth <= 0)
-        {
-            Die();
-        }
-    }
-
-    private void Die()
-    {
-        Debug.Log("Quái đã chết!");
-        Destroy(gameObject);
-    }
-
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if (collision.gameObject.CompareTag("Bullet"))  // Kiểm tra nếu trúng đạn
-        {
-            TakeDamage(20);
-            Destroy(collision.gameObject); // Hủy đạn sau khi trúng
-        }
-    }
+    
 }

@@ -73,6 +73,7 @@ public class BirAI : MonoBehaviour
         float direction = transform.localScale.x > 0 ? 1f : -1f;
         rb.linearVelocity = new Vector2(direction * bulletSpeed, 0f);
     }
+    Destroy(bullet, 2f);
 }
 
 
