@@ -3,7 +3,7 @@ using UnityEditor.SearchService;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class Menu :MonoBehaviour
+public class hoho :MonoBehaviour
 {
     public void Play()
     {
