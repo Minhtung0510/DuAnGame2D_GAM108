@@ -143,7 +143,7 @@ GameObject:
   - component: {fileID: 2509997395824576215}
   m_Layer: 3
   m_Name: defend
-  m_TagString: Untagged
+  m_TagString: khien
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -380,8 +380,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fbc26ece118a7be48af3305e1ea5d2d4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  requiredFragments: 3
-  bossSceneName: Boss
 --- !u!114 &6771250214090537892
 MonoBehaviour:
   m_ObjectHideFlags: 0

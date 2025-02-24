@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 
 public class TrapScript : MonoBehaviour
 {
@@ -15,5 +15,10 @@ public class TrapScript : MonoBehaviour
                 playerHealth.TakeDamage(damageAmount);
             }
         }
-    }
+
+        if (collision.CompareTag("khien"))
+        {
+            Destroy(gameObject);
+        }
+}
 }

@@ -20,6 +20,8 @@ TagManager:
   - Attack2
   - SkillSuriken
   - Fragment
+  - skillEnemy
+  - khien
   layers:
   - Default
   - TransparentFX
