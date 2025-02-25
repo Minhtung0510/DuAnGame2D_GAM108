@@ -72,10 +72,7 @@ public class PlayerHealth : MonoBehaviour
 
      private void PlayerDie()
     {
-        //anmt.SetBool("isDie",true);
-
-        Invoke("ShowGameOver", 1f);
-
+        Invoke("ShowGameOver", 0.1f);
     }
     
     void ShowGameOver()
@@ -97,6 +94,7 @@ public class PlayerHealth : MonoBehaviour
         PlayerManager.instance.health = currentHealth;
         PlayerManager.instance.SaveGame();
     }
+    
     void ResetAnimation()
     {
         anmt.SetBool("isHurt", false);
