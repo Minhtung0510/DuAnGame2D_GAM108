@@ -13,12 +13,16 @@ public class PlayerMove : MonoBehaviour
     public bool canJump;
     public Animator anmt;
 
+    public AudioSource audioSource; // Thêm AudioSource vào GameObject
+    public AudioClip shootSound; // Kéo file âm thanh vào đây
+
 
   
 
     // Start is called before the first frame update
     void Start()
     {
+        audioSource = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -31,6 +35,13 @@ public class PlayerMove : MonoBehaviour
         Jump();
 
         
+    }
+    void Shoot()
+    {
+        if (shootSound != null)
+        {
+            audioSource.PlayOneShot(shootSound); // Phát âm thanh một lần
+        }
     }
     private void Move()
     {
@@ -61,6 +72,7 @@ public class PlayerMove : MonoBehaviour
             rb.AddForce(Vector2.up*upJump, ForceMode2D.Impulse);
             anmt.SetBool("isJump", true);
             Invoke("ResetAnimation", 1f);
+            Shoot();
         }
 
     }

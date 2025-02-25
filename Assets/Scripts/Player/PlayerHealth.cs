@@ -17,8 +17,13 @@ public class PlayerHealth : MonoBehaviour
     public GameOver _GameOver;
     public Animator anmt;
 
+    public AudioSource audioSource; // Thêm AudioSource vào GameObject
+    public AudioClip shootSound; // Kéo file âm thanh vào đây
+
     void Start()
 {
+     audioSource = GetComponent<AudioSource>();
+
     // Nếu có dữ liệu health đã lưu, sử dụng nó, ngược lại dùng maxHealth
     if (PlayerManager.instance.health > 0)
     {
@@ -33,10 +38,18 @@ public class PlayerHealth : MonoBehaviour
     UpdateHealthUI();
 }
 
+    void Shoot()
+    {
+        if (shootSound != null)
+        {
+            audioSource.PlayOneShot(shootSound); // Phát âm thanh một lần
+        }
+    }
 
     public void TakeDamage(float damage)
     {
         currentHealth -= damage;
+        Shoot();
         anmt.SetBool("isHurt", true);
         Invoke("ResetAnimation", 0.5f);
         currentHealth = Mathf.Max(currentHealth, 0);

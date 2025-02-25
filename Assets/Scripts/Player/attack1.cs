@@ -8,10 +8,16 @@ public class attack1 : MonoBehaviour
     [SerializeField] private GameObject atk;
 
     public Animator anmt;     
+
+    public AudioSource audioSource; // Thêm AudioSource vào GameObject
+    public AudioClip shootSound;
+
     // Update is called once per frame
     void Start()
     {
+        audioSource = GetComponent<AudioSource>();
         atk.SetActive(false);
+        
     }
 
     void Update()
@@ -23,12 +29,22 @@ public class attack1 : MonoBehaviour
         {
             anmt.SetBool("attack1", true);
             atk.SetActive(true);
+            Shoot();
             cooldownTimer = cooldownTime;
             Invoke("ResetAnimation", 0.28f);
         }
         
         
     }
+
+    void Shoot()
+    {
+        if (shootSound != null)
+        {
+            audioSource.PlayOneShot(shootSound); // Phát âm thanh một lần
+        }
+    }
+
     void ResetAnimation()
     {
         anmt.SetBool("attack1", false);

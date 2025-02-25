@@ -6,8 +6,13 @@ public class PlayerCoin : MonoBehaviour
     [SerializeField] private TextMeshProUGUI coinText;
     private float currentCoin;
 
+    public AudioSource audioSource; // Thêm AudioSource vào GameObject
+    public AudioClip shootSound; // Kéo file âm thanh vào đây
+
     void Start()
     {
+        audioSource = GetComponent<AudioSource>();
+
         currentCoin = PlayerManager.instance.coins;
         UpdateCoinText();
     }
@@ -16,8 +21,17 @@ public class PlayerCoin : MonoBehaviour
     {
         if (other.CompareTag("Coin"))
         {
+            Shoot();
             AddCoin(1);
             Destroy(other.gameObject);
+        }
+    }
+
+    void Shoot()
+    {
+        if (shootSound != null)
+        {
+            audioSource.PlayOneShot(shootSound); // Phát âm thanh một lần
         }
     }
 

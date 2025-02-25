@@ -16,8 +16,13 @@ public class shuriken : MonoBehaviour
 
     public Animator anmt;
 
+    public AudioSource audioSource; // Thêm AudioSource vào GameObject
+    public AudioClip shootSound; // Kéo file âm thanh vào đây
+
     void Start()
     {
+        audioSource = GetComponent<AudioSource>();
+
         if (anmt == null)
             anmt = GetComponent<Animator>(); // Tự động tìm Animator nếu quên gán
     }
@@ -34,6 +39,7 @@ public class shuriken : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.G) && cooldownTimer <= 0f)
         {
             anmt.SetBool("shuriken", true);
+            Shoot();
             StartCoroutine(ThrowWithDelay(0.2f)); // Gọi hàm ném sau 0.3 giây
         }
     }
@@ -59,6 +65,14 @@ public class shuriken : MonoBehaviour
         rb.AddForce(force, ForceMode2D.Impulse);
 
         Destroy(shurikenInstance, 2f);
+    }
+
+    void Shoot()
+    {
+        if (shootSound != null)
+        {
+            audioSource.PlayOneShot(shootSound); // Phát âm thanh một lần
+        }
     }
 
     void ResetAnimation()
