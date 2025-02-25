@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using System.Collections;
 
 public class shuriken : MonoBehaviour
 {
@@ -15,42 +16,53 @@ public class shuriken : MonoBehaviour
 
     public Animator anmt;
 
-    // Update is called once per frame
+    void Start()
+    {
+        if (anmt == null)
+            anmt = GetComponent<Animator>(); // Tự động tìm Animator nếu quên gán
+    }
+
     void Update()
     {
-        cooldownTimer -= Time.deltaTime;
-
+        if (cooldownTimer > 0)
+        {
+            cooldownTimer -= Time.deltaTime;
+        }
 
         direction = Input.GetAxisRaw("Horizontal");
-
 
         if (Input.GetKeyDown(KeyCode.G) && cooldownTimer <= 0f)
         {
             anmt.SetBool("shuriken", true);
-            Throw();
+            StartCoroutine(ThrowWithDelay(0.2f)); // Gọi hàm ném sau 0.3 giây
         }
-        else
-        {
-            anmt.SetBool("shuriken", false);
-        }
-        
     }
+
+    IEnumerator ThrowWithDelay(float delay)
+    {
+        yield return new WaitForSeconds(delay);
+        Throw();
+        Invoke("ResetAnimation", 0.25f); // Tắt animation sau 0.2 giây
+    }
+
     void Throw()
-{
+    {
+        cooldownTimer = cooldownTime;
 
-    cooldownTimer = cooldownTime;
+        float characterDirection = transform.localScale.x;
+        Quaternion rotation = (characterDirection > 0) ? Quaternion.identity : Quaternion.Euler(0, 180, 0);
 
-    float characterDirection = transform.localScale.x;
-    Quaternion rotation = (characterDirection > 0) ? Quaternion.identity : Quaternion.Euler(0, 180, 0);
+        GameObject shurikenInstance = Instantiate(Prefab, spawnPoint.position, rotation);
 
+        Rigidbody2D rb = shurikenInstance.GetComponent<Rigidbody2D>();
+        Vector2 force = characterDirection * Vector2.right * throwForce;
+        rb.AddForce(force, ForceMode2D.Impulse);
 
-    GameObject liemInstance = Instantiate(Prefab, spawnPoint.position, rotation);
+        Destroy(shurikenInstance, 2f);
+    }
 
-
-    Rigidbody2D rb = liemInstance.GetComponent<Rigidbody2D>();
-    Vector2 force = (characterDirection > 0) ? transform.right : -transform.right;
-    rb.AddForce(force * throwForce, ForceMode2D.Impulse);
-     Destroy(liemInstance, 2f);
-}
-
+    void ResetAnimation()
+    {
+        anmt.SetBool("shuriken", false);
+    }
 }

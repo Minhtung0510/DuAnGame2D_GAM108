@@ -25224,6 +25224,10 @@ PrefabInstance:
       propertyPath: m_TagString
       value: skill
       objectReference: {fileID: 0}
+    - target: {fileID: 2003882560726224262, guid: 2266bd7bc1091a740a0356200f005ca2, type: 3}
+      propertyPath: throwForce
+      value: 16
+      objectReference: {fileID: 0}
     - target: {fileID: 2509997395824576215, guid: 2266bd7bc1091a740a0356200f005ca2, type: 3}
       propertyPath: m_IsTrigger
       value: 1
