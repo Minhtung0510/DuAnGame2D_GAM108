@@ -60,8 +60,9 @@ public class PlayerMove : MonoBehaviour
         {
             rb.AddForce(Vector2.up*upJump, ForceMode2D.Impulse);
             anmt.SetBool("isJump", true);
+            Invoke("ResetAnimation", 1f);
         }
-        else anmt.SetBool("isJump", false);
+
     }
     private void OnTriggerEnter2D(Collider2D map)
     {
@@ -77,6 +78,10 @@ public class PlayerMove : MonoBehaviour
         {
             canJump=false;
         }
+    }
+    void ResetAnimation()
+    {
+        anmt.SetBool("isJump", false);
     }
     
 

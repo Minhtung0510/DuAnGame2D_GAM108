@@ -37,6 +37,8 @@ public class PlayerHealth : MonoBehaviour
     public void TakeDamage(float damage)
     {
         currentHealth -= damage;
+        anmt.SetBool("isHurt", true);
+        Invoke("ResetAnimation", 0.5f);
         currentHealth = Mathf.Max(currentHealth, 0);
 
         UpdateHealthUI();
@@ -94,5 +96,9 @@ public class PlayerHealth : MonoBehaviour
     {
         PlayerManager.instance.health = currentHealth;
         PlayerManager.instance.SaveGame();
+    }
+    void ResetAnimation()
+    {
+        anmt.SetBool("isHurt", false);
     }
 }

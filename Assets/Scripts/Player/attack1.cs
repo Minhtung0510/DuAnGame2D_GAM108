@@ -24,15 +24,14 @@ public class attack1 : MonoBehaviour
             anmt.SetBool("attack1", true);
             atk.SetActive(true);
             cooldownTimer = cooldownTime;
-        }
-        else 
-        {
-            anmt.SetBool("attack1", false);
-        }
-        if (atk.activeSelf && cooldownTimer <= cooldownTime - 0.1f)
-        {
-            atk.SetActive(false);
+            Invoke("ResetAnimation", 0.28f);
         }
         
+        
+    }
+    void ResetAnimation()
+    {
+        anmt.SetBool("attack1", false);
+        atk.SetActive(false);
     }
 }
