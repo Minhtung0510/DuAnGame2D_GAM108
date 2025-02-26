@@ -12676,6 +12676,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: PF Village Props - Bounding Platform 01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6975113845678299868, guid: 64ad26f35d95fc84997ad93db1292861, type: 3}
+      propertyPath: m_SortingOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8280272922639656698, guid: 64ad26f35d95fc84997ad93db1292861, type: 3}
+      propertyPath: m_SortingOrder
+      value: 5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
