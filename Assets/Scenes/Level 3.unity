@@ -16464,6 +16464,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: "h\u1EC1"
       objectReference: {fileID: 0}
+    - target: {fileID: 2904330455706889231, guid: a854d89c0fee78642bc929d53bc035bf, type: 3}
+      propertyPath: damageAmount
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5719523168113827717, guid: a854d89c0fee78642bc929d53bc035bf, type: 3}
       propertyPath: pointA
       value: 
