@@ -4022,7 +4022,7 @@ Transform:
   m_GameObject: {fileID: 463306331}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 6.5688887, y: 0.8399997, z: -10}
+  m_LocalPosition: {x: 222.76889, y: -16.060001, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -9382,15 +9382,15 @@ PrefabInstance:
     - target: {fileID: 2068129451646172938, guid: a6691978b439ae749bb6a89f00ace904, type: 3}
       propertyPath: slLoading
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1156654227}
     - target: {fileID: 2068129451646172938, guid: a6691978b439ae749bb6a89f00ace904, type: 3}
       propertyPath: textLoading
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1633491148}
     - target: {fileID: 2068129451646172938, guid: a6691978b439ae749bb6a89f00ace904, type: 3}
       propertyPath: LoadingCanvar
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1937466610}
     - target: {fileID: 2778954007935200419, guid: a6691978b439ae749bb6a89f00ace904, type: 3}
       propertyPath: m_LocalPosition.x
       value: 227.34
@@ -9877,11 +9877,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 376266873369878969, guid: 2266bd7bc1091a740a0356200f005ca2, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.4
+      value: 215.8
       objectReference: {fileID: 0}
     - target: {fileID: 376266873369878969, guid: 2266bd7bc1091a740a0356200f005ca2, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.1
+      value: -19
       objectReference: {fileID: 0}
     - target: {fileID: 376266873369878969, guid: 2266bd7bc1091a740a0356200f005ca2, type: 3}
       propertyPath: m_LocalPosition.z
@@ -14786,6 +14786,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4106967144069191872, guid: 7fc30cd74f5aa724387df7546e0f3d5b, type: 3}
   m_PrefabInstance: {fileID: 1150841248}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1156654227 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 970685359910677252, guid: fe649ead07ab1b241a7bc85660fb805e, type: 3}
+  m_PrefabInstance: {fileID: 5771595070839037572}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1159554206
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18903,6 +18914,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8110126698356207188, guid: 924118ea6eca18f459f67d54f8640858, type: 3}
   m_PrefabInstance: {fileID: 1632051393}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1633491148 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8445833929227985123, guid: fe649ead07ab1b241a7bc85660fb805e, type: 3}
+  m_PrefabInstance: {fileID: 5771595070839037572}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1636331476
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21794,6 +21816,11 @@ Transform:
 --- !u!1 &1935239209 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8081532714335797100, guid: fe649ead07ab1b241a7bc85660fb805e, type: 3}
+  m_PrefabInstance: {fileID: 5771595070839037572}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1937466610 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5441868073238219140, guid: fe649ead07ab1b241a7bc85660fb805e, type: 3}
   m_PrefabInstance: {fileID: 5771595070839037572}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1944009048
@@ -25535,7 +25562,7 @@ Transform:
   m_GameObject: {fileID: 1996475627}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 6.5688887, y: 0.8399997, z: -10}
+  m_LocalPosition: {x: 222.76889, y: -16.060001, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
