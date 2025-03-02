@@ -52,9 +52,17 @@ public class PlayerCoin : MonoBehaviour
     }
 
     public void SetCoins(float amount)
-    {
-        currentCoin = amount;
-        PlayerManager.instance.coins = amount;
-        UpdateCoinText();
-    }
+{
+    currentCoin = amount;
+    PlayerManager.instance.coins = amount;
+    UpdateCoinText();
+    PlayerManager.instance.SaveGame(); // Đảm bảo lưu ngay lập tức
+}
+
+    public void RefreshCoins()
+{
+    currentCoin = PlayerManager.instance.coins; // Lấy giá trị mới từ PlayerManager
+    UpdateCoinText();
+}
+
 }

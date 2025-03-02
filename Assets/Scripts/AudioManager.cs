@@ -8,7 +8,8 @@ public class AudioManager : MonoBehaviour
 
     void Start()
     {
-        // Gán giá tr? âm l??ng ban ??u
+        DontDestroyOnLoad(gameObject);
+        // Gï¿½n giï¿½ tr? ï¿½m l??ng ban ??u
         if (backgroundMusic != null)
         {
             backgroundMusic.Play(); 
@@ -22,7 +23,7 @@ public class AudioManager : MonoBehaviour
         }
     }
 
-    // Hàm ?i?u ch?nh âm l??ng
+    // Hï¿½m ?i?u ch?nh ï¿½m l??ng
     public void SetVolume(float volume)
     {
         if (backgroundMusic != null)

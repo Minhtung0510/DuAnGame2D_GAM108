@@ -423,7 +423,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 700044c3c5cc5234ca3e2f85a3125196, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 2000
+  maxHealth: 20
   currentHealth: 0
   healthText: {fileID: 0}
   healthBar: {fileID: 0}
@@ -445,7 +445,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Prefab: {fileID: 8072313566257882877, guid: 337b15ad1887e4845bb4cd8bdd7a5dd6, type: 3}
   spawnPoint: {fileID: 2781427039459960147}
-  cooldownTime: 2
+  cooldownTime: 1
   throwForce: 15
   anmt: {fileID: 1134985666925926980}
   audioSource: {fileID: 6646958272767382109}
@@ -462,7 +462,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 744034c74c7026e4a90c274402fefc34, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cooldownTime: 2
+  cooldownTime: 1
   atk: {fileID: 6565798875512464125}
   anmt: {fileID: 1134985666925926980}
 --- !u!114 &6081361804343309432
@@ -726,12 +726,12 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 8d25c54b8215e9144baf3f9124156e86, type: 3}
+  m_Resource: {fileID: 8300000, guid: 8d25c54b8215e9144baf3f9124156e86, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0

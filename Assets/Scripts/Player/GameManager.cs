@@ -6,7 +6,12 @@ public class GameManager : MonoBehaviour
     public static GameManager Instance;
     public int fragmentCount = 0;
     public string bossSceneName = "BossScene";
+    public GameObject _player;
 
+    void Start()
+    {
+
+    }
     void Awake()
     {
         if (Instance == null)
@@ -27,6 +32,7 @@ public class GameManager : MonoBehaviour
         if (fragmentCount >= 3)
         {
             SceneManager.LoadScene(bossSceneName);
+             _player.SetActive(false);
         }
     }
 }

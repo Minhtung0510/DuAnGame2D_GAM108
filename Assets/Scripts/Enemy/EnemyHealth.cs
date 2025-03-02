@@ -69,17 +69,23 @@ public class EnemyHealth : MonoBehaviour
     }
 
     private IEnumerator SmoothHealthBarUpdate()
-    {
-        float targetValue = currentHealth / maxHealth;
-        while (Mathf.Abs(healthSlider.value - targetValue) > 0.01f)
-        {
-            if (this == null || gameObject == null) yield break;
+{
+    if (this == null || gameObject == null) yield break; // Kiểm tra trước khi chạy
 
-            healthSlider.value = Mathf.Lerp(healthSlider.value, targetValue, Time.deltaTime * 5f);
-            fillImage.color = healthGradient.Evaluate(healthSlider.value);
-            yield return null;
-        }
+    float targetValue = (maxHealth > 0) ? Mathf.Clamp01(currentHealth / maxHealth) : 0f;
+    
+    while (Mathf.Abs(healthSlider.value - targetValue) > 0.01f)
+    {
+        healthSlider.value = Mathf.Lerp(healthSlider.value, targetValue, Time.deltaTime * 5f);
+        fillImage.color = healthGradient.Evaluate(healthSlider.value);
+        yield return new WaitForEndOfFrame(); // Hoặc yield return null;
     }
+
+    // Đảm bảo giá trị cuối cùng đúng chính xác với target
+    healthSlider.value = targetValue;
+    fillImage.color = healthGradient.Evaluate(targetValue);
+}
+
 
     private void Die()
     {
