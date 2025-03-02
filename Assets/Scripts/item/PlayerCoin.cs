@@ -4,7 +4,7 @@ using TMPro;
 public class PlayerCoin : MonoBehaviour
 {
     [SerializeField] private TextMeshProUGUI coinText;
-    private float currentCoin;
+    public float currentCoin;
 
     public AudioSource audioSource; // Thêm AudioSource vào GameObject
     public AudioClip shootSound; // Kéo file âm thanh vào đây
@@ -35,7 +35,7 @@ public class PlayerCoin : MonoBehaviour
         }
     }
 
-    private void UpdateCoinText()
+    public void UpdateCoinText()
     {
         if (coinText != null)
         {

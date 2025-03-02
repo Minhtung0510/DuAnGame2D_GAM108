@@ -7,7 +7,7 @@ using UnityEngine.UI;
 public class PlayerHealth : MonoBehaviour
 {
     [Header("Health Settings")]
-    [SerializeField] private float maxHealth = 5f;
+    public float maxHealth = 5f;
     public float currentHealth;
 
     [Header("UI Settings")]

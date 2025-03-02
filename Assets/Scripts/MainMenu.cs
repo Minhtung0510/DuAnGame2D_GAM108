@@ -10,6 +10,7 @@ public class MainMenu : MonoBehaviour
 
     public AudioManager audioManager;
 
+
     void Start()
     {
         volume.SetActive(false);
@@ -64,7 +65,26 @@ public class MainMenu : MonoBehaviour
     {
         PlayerPrefs.DeleteAll();
         PlayerPrefs.Save();
-        Destroy(gameObject);
+        ResetPlayerData();
         SceneManager.LoadScene(1);
     }
+    public void ResetPlayerData()
+{
+    PlayerHealth playerHealth = Object.FindFirstObjectByType<PlayerHealth>();
+
+    if (playerHealth != null)
+    {
+        playerHealth.currentHealth = playerHealth.maxHealth;
+        playerHealth.UpdateHealthUI();
+    }
+
+    PlayerCoin playerCoin = Object.FindAnyObjectByType<PlayerCoin>();
+    if (playerCoin != null)
+    {
+        playerCoin.SetCoins(0);
+        playerCoin.UpdateCoinText();
+    }
+}
+
+
 }
